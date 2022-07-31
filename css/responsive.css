@@ -1,0 +1,4924 @@
+
+/* 1920 PX */
+
+@media screen and (max-width:1920px) {
+
+    .tandc_ar input {
+        transform: rotate(270deg);
+        position: absolute;
+        left: 26% !important;
+        top: -18px;
+        width: 65px;
+        z-index: 1;
+    }
+
+    .res-lsit-reflist {
+        padding: 0 0% !important;
+    }
+
+    .res-p-reflist {
+        padding: 30px 10% !important;
+    }
+
+    .status-bx {
+        display: flex;
+        align-items: center;
+        width: 8% !important;
+        background: #ffffffc7;
+        height: 35px;
+        border-radius: 30px;
+        align-content: center;
+        justify-content: center;
+        margin: 10px 0 0 0;
+    }
+
+    .share-ico {
+        width: 32px;
+        height: 32px;
+    }
+
+    .s-s-n p {
+        margin: 0 20px;
+    }
+
+    .next-ico {
+        width: 10px;
+        height: 30px;
+        margin: 0px 0 5px 0;
+    }
+
+    .Terms-and-condition {
+        height: 130px;
+        background: #ffffff;
+        font-size: 18px;
+        width: 40% !important;
+        margin: 50px auto;
+        padding: 20px;
+        box-shadow: 1px 1px 10px #0000002b;
+        bottom: 50px;
+        z-index: 1;
+    }
+    .popupDiv-c {
+        height: auto !important;
+        background: white !important;
+        position: absolute !important;
+        width: 27% !important;
+        left: 37.5% !important;
+        border-radius: 8px !important;
+        top: 20% !important;
+        padding: 20px !important;
+    }
+}
+
+/* ============================================================================= */
+
+/* 1680 PX */
+
+@media screen and (max-width:1680px) {
+
+    .tandc_ar input {
+        transform: rotate(270deg);
+        position: absolute;
+        left: 29% !important;
+        top: -18px !important;
+        width: 65px;
+        z-index: 1;
+    }
+
+    .ref-btn {
+        display: flex;
+    }
+
+    .share-ico {
+        width: 22px;
+        height: 22px;
+    }
+
+    .s-s-n p {
+        margin: 0 10px;
+    }
+
+    .next-ico {
+        width: 10px;
+        height: 30px;
+        margin: 0px 0 5px 0;
+    }
+
+    .res-lsit-reflist {
+        padding: 0 0% !important;
+    }
+
+    .res-p-reflist {
+        padding: 30px 10% !important;
+    }
+
+    .status-bx {
+        display: flex;
+        align-items: center;
+        width: 8%;
+        background: #ffffffc7;
+        height: 35px;
+        border-radius: 30px;
+        align-content: center;
+        justify-content: center;
+        margin: 10px 0 0 0;
+    }
+
+    .share-ico {
+        width: 32px;
+        height: 32px;
+    }
+
+    .s-s-n p {
+        margin: 0 20px;
+    }
+}
+
+/* ============================================================================= */
+
+/* 1600 PX */
+
+@media screen and (max-width:1600px) {
+    .tandc_ar input {
+        transform: rotate(270deg);
+        position: absolute;
+        left: 30% !important;
+        top: -18px;
+        width: 65px;
+        z-index: 1;
+    }
+
+    .res-lsit-reflist {
+        padding: 0 0% !important;
+    }
+
+    .res-p-reflist {
+        padding: 30px 10% !important;
+    }
+
+    .status-bx {
+        display: flex;
+        align-items: center;
+        width: 7% !important;
+        background: #ffffffc7;
+        height: 35px;
+        border-radius: 30px;
+        align-content: center;
+        justify-content: center;
+        margin: 10px 0 0 0;
+    }
+
+    .share-ico {
+        width: 32px;
+        height: 32px;
+    }
+
+    .s-s-n p {
+        margin: 0 20px;
+    }
+
+    .next-ico {
+        width: 10px;
+        height: 30px;
+        margin: 0px 0 5px 0;
+    }
+
+    .brand-img {
+        width: 50px;
+        height: 50px;
+    }
+
+    .tandc_ar input {
+        transform: rotate(270deg);
+        position: absolute;
+        left: 36% !important;
+        top: -18px;
+        width: 65px;
+        z-index: 1;
+    }
+    
+}
+
+/* ============================================================================= */
+
+/* 1440 PX */
+
+@media screen and (max-width:1440px) {
+    .ref-btn {
+        display: flex;
+    }
+
+    .share-ico {
+        width: 22px;
+        height: 22px;
+    }
+
+    .res-p-reflist {
+        padding: 30px 10% !important;
+    }
+
+
+    .s-s-n p {
+        margin: 0 10px;
+    }
+
+    .next-ico {
+        width: 10px;
+        height: 15px;
+        margin: 0px 0 5px 0;
+    }
+
+    .brand-img {
+        width: 50px;
+        height: 50px;
+    }
+
+    .status-bx {
+        display: flex;
+        align-items: center;
+        width: 10%;
+        background: #ffffffc7;
+        height: 35px;
+        border-radius: 30px;
+        align-content: center;
+        justify-content: center;
+        margin: 10px 0 0 0;
+    }
+}
+
+/* ============================================================================= */
+
+/* 1366 PX */
+
+@media screen and (max-width:1366px) {
+    .tandc_ar input {
+        transform: rotate(270deg);
+        position: absolute;
+        left: 35% !important;
+        top: -18px;
+        width: 65px;
+        z-index: 1;
+    }
+
+    .ref-btn {
+        display: flex !important;
+    }
+
+    .share-ico {
+        width: 22px;
+        height: 22px;
+    }
+
+    .s-s-n p {
+        margin: 0 10px;
+    }
+
+    .next-ico {
+        width: 10px;
+        height: 15px;
+        margin: 0px 0 5px 0;
+    }
+
+    .brand-img {
+        width: 50px;
+        height: 50px;
+    }
+
+    .status-bx {
+        display: flex;
+        align-items: center;
+        width: 10% !important;
+        background: #ffffffc7;
+        height: 35px;
+        border-radius: 30px;
+        align-content: center;
+        justify-content: center;
+        margin: 10px 0 0 0;
+    }
+
+    .popupDiv-c {
+        height: auto !important;
+        background: white !important;
+        position: absolute !important;
+        width: 35% !important;
+        left: 32% !important;
+        border-radius: 8px !important;
+        top: 10% !important;
+        padding: 20px !important;
+    }
+
+        .popupDiv-c.contact {
+            height: auto !important;
+            background: white !important;
+            position: absolute !important;
+            width: 35% !important;
+            left: 32% !important;
+            border-radius: 8px !important;
+            top: 10% !important;
+            padding: 20px !important;
+        }
+
+            .popupDiv-c.contact .coin-bag-st img {
+                width: 80px !important;
+                height: 80px !important;
+            }
+
+            .popupDiv-c.contact .likeBox {
+                height: 65px;
+                border: 1px solid #0000001A !important;
+                display: grid;
+                width: 100%;
+                border-radius: 4px !important;
+                align-content: center;
+                font-size: 20px;
+                font-family: 'be vietnam pro semibold';
+            }
+
+            .popupDiv-c.contact p.placeHold {
+                font-size: 16px;
+                font-family: 'be vietnam pro semibold';
+                color: #000000a3;
+                opacity: 60%;
+            }
+}
+
+
+/* ============================================================================= */
+
+/* 1360 PX */
+
+@media screen and (max-width:1360px) {
+    .ref-btn {
+        display: flex;
+    }
+
+    .share-ico {
+        width: 22px;
+        height: 22px;
+    }
+
+    .s-s-n p {
+        margin: 0 10px;
+    }
+
+    .next-ico {
+        width: 10px;
+        height: 15px;
+        margin: 0px 0 5px 0;
+    }
+
+    .brand-img {
+        width: 50px;
+        height: 50px;
+    }
+
+    .status-bx {
+        display: flex;
+        align-items: center;
+        width: 10%;
+        background: #ffffffc7;
+        height: 35px;
+        border-radius: 30px;
+        align-content: center;
+        justify-content: center;
+        margin: 10px 0 0 0;
+    }
+}
+
+/* ============================================================================= */
+
+/* 1280 PX */
+
+@media screen and (max-width:1280px) {
+
+    .tandc_ar input {
+        transform: rotate(270deg);
+        position: absolute;
+        left: 30% !important;
+        top: -18px;
+        width: 65px;
+        z-index: 1;
+    }
+
+    .Terms-and-condition {
+        height: 130px;
+        background: #ffffff;
+        font-size: 18px;
+        width: 50% !important;
+        margin: 50px auto;
+        padding: 20px;
+        box-shadow: 1px 1px 10px #0000002b;
+        bottom: 50px;
+        z-index: 1;
+    }
+
+    .ref-btn {
+        display: flex;
+    }
+
+    .share-ico {
+        width: 22px;
+        height: 22px;
+    }
+
+    .s-s-n p {
+        margin: 0 10px;
+    }
+
+    .next-ico {
+        width: 10px;
+        height: 15px;
+        margin: 0px 0 5px 0;
+    }
+
+    .brand-img {
+        width: 50px;
+        height: 50px;
+    }
+}
+
+/* ============================================================================= */
+
+/* 1024 PX */
+
+@media screen and (max-width:1024px) {
+
+    .tandc_ar input {
+        transform: rotate(270deg);
+        position: absolute;
+        left: 30% !important;
+        top: -18px;
+        width: 65px;
+        z-index: 1;
+    }
+
+    .res-twoButtons {
+        display: flex;
+        width: 115%;
+    }
+
+    .bannertxt {
+        font-size: 55px !important;
+        margin-bottom: 15px;
+        font-family: 'be vietnam pro bold';
+    }
+
+    ..tandc_ar input {
+        transform: rotate(270deg);
+        position: absolute;
+        left: 30% !important;
+        top: -20px !important;
+        width: 65px;
+        z-index: 1;
+    }
+
+    .Terms-and-condition {
+        height: 130px;
+        background: #ffffff;
+        font-size: 18px;
+        width: 55% !important;
+        margin: 50px auto;
+        padding: 20px;
+        box-shadow: 1px 1px 10px #0000002b;
+        bottom: 50px;
+        z-index: 1;
+    }
+
+
+
+    .tc-head {
+        font-weight: bold;
+        color: #FE833B;
+        font-size: 15px !important;
+    }
+
+    .ref-btn {
+        display: flex;
+    }
+
+    .share-ico {
+        width: 22px;
+        height: 22px;
+    }
+
+    .s-s-n p {
+        margin: 0 10px;
+    }
+
+    .next-ico {
+        width: 10px;
+        height: 15px;
+        margin: 0px 0 5px 0;
+    }
+
+    .status-bx {
+        display: flex;
+        align-items: center;
+        width: 12%;
+        background: #ffffffc7;
+        height: 35px;
+        border-radius: 30px;
+        align-content: center;
+        justify-content: center;
+        margin: 10px 0 0 0;
+    }
+
+    .brand-img {
+        width: 50px;
+        height: 50px;
+    }
+
+    .popupDiv-c {
+        height: auto !important;
+        background: white !important;
+        position: absolute !important;
+        width: 40% !important;
+        left: 30.5% !important;
+        border-radius: 8px !important;
+        top: 15% !important;
+        padding: 20px !important;
+    }
+}
+
+/* ============================================================================= */
+
+/* 992 PX */
+@media screen and (max-width:575px) {
+    .resmar {
+        margin-top: 42px !important; 
+    }
+}
+    @media screen and (max-width:995px) {
+        .reswidthfull {
+            width: 100% !important;
+            height: 100vh;
+        }
+    }
+
+    @media screen and (max-width:992px) {
+
+        .tandc_ar input {
+            transform: rotate(270deg);
+            position: absolute;
+            left: 42%;
+            top: 2px;
+            width: 25px;
+        }
+
+        .res-twoButtons {
+            display: flex;
+            width: 115%;
+        }
+
+        .coinBag-icon {
+            width: 125px;
+            margin-top: 25px;
+        }
+
+        .res-twoButtons .borderbutton {
+            background-color: #fff0;
+            color: #EE8A4C;
+            border-radius: 47px;
+            border: 1px solid #EE8A4C;
+            padding: 0px 0px;
+            margin: 5px 5px;
+            width: 135%;
+            font-size: 14px;
+            height: 50px;
+        }
+
+        .res-twoButtons .clrbutton {
+            font-size: 14px;
+            background-color: #fff0;
+            color: #FFF;
+            border-radius: 47px;
+            border: none;
+            padding: 0px 0px;
+            margin: 5px 0px;
+            width: 100%;
+            height: 50px;
+        }
+
+        .bannertxt {
+            font-size: 35px !important;
+            margin-bottom: 15px;
+            font-family: 'be vietnam pro bold';
+        }
+
+        ..tandc_ar input {
+            transform: rotate(270deg);
+            position: absolute;
+            left: 35% !important;
+            top: -18px;
+            width: 65px;
+            z-index: 1;
+        }
+
+        .Terms-and-condition {
+            height: 130px;
+            background: #ffffff;
+            font-size: 18px;
+            width: 55% !important;
+            margin: 50px auto;
+            padding: 20px;
+            box-shadow: 1px 1px 10px #0000002b;
+            bottom: 50px;
+            z-index: 1;
+        }
+
+        accordion-button {
+            font-size: 14px;
+        }
+
+        .accordion-body {
+            font-size: 14px !important;
+        }
+
+        .Terms-and-condition {
+            height: 130px;
+            background: #ffffff;
+            font-size: 14px !important;
+            width: 60% !important;
+            margin: 5px auto !important;
+            padding: 20px 10px !important;
+            box-shadow: 1px 1px 10px #0000002b;
+            bottom: 50px;
+            z-index: 1;
+        }
+
+
+
+
+        ..tandc_ar input {
+            left: 30% !important;
+            top: -20px !important;
+        }
+
+        .footer-cont > p:nth-child(2) {
+            font-size: 12px;
+        }
+
+        .tandc_ar {
+            padding: 0;
+        }
+
+        .tc-head {
+            font-size: 14px !important;
+            font-weight: bold;
+            color: #FE833B;
+        }
+
+        .tcp {
+            font-size: 13px !important;
+            margin: 10px 0 0 0 !important;
+        }
+
+        .status-bx {
+            display: flex;
+            align-items: center;
+            width: 30%;
+            background: #FFF6F0;
+            height: 35px;
+            border-radius: 30px;
+            align-content: center;
+            justify-content: center;
+            margin: 10px 0 0 0;
+        }
+
+        .filter-bx img {
+            width: 15px;
+            height: 15px;
+            margin: 0 0px 0 0;
+            margin-inline-start: 5px;
+        }
+
+        .back-grad {
+            height: 120px;
+            background: none;
+            display: grid;
+            align-items: center;
+        }
+
+        .sub-head {
+            font-size: 18px;
+        }
+
+        p.placeHold {
+            font-size: 12px;
+            font-family: 'be vietnam pro medium';
+        }
+
+        .back-grad > div:nth-child(1) > div:nth-child(1) {
+            padding: 10px 5%;
+        }
+
+        .res-p-reflist {
+            padding: 0px 5%;
+        }
+
+        .res-lsit-reflist {
+            padding: 0 5%;
+        }
+
+        .next-ico {
+            height: 12px;
+            margin: 0px 0 0px 0;
+        }
+
+        .share-ico {
+            width: 20px;
+            height: 20px;
+        }
+
+        .s-s-n p {
+            margin: 0 10px;
+        }
+
+        #ContentPlaceHolder1_lnkbtnremind > p:nth-child(1) {
+            font-size: 12px;
+        }
+
+        .ref-btn {
+            width: 100%;
+            display: flex;
+            align-items: center;
+            position: relative;
+            left: 40px;
+        }
+
+        .nands, .clm {
+            padding: 0 !important;
+        }
+
+            .nands .st {
+                color: #00000078;
+                font-size: 12px;
+            }
+
+            .clm .status-bx {
+                display: flex;
+                align-items: center;
+                width: 100% !important;
+                background: #FFF6F0;
+                height: 35px;
+                border-radius: 30px;
+                align-content: center;
+                justify-content: center;
+                margin: 0px 0 0 0;
+                position: absolute;
+                right: 0;
+            }
+
+        .status-bx {
+            display: flex;
+            align-items: center;
+            width: 10% !important;
+            background: #FFF6F0;
+            height: 35px;
+            border-radius: 30px;
+            align-content: center;
+            justify-content: center;
+            margin: 10px 0 0 0;
+        }
+
+        .ref-btn {
+            width: auto !important;
+            display: flex;
+            align-items: center;
+            position: relative;
+            left: 0 !important;
+        }
+
+        .claim-btn {
+            position: relative;
+        }
+
+        .claimed-btn {
+            position: relative;
+        }
+
+        .status-bx .stats {
+            font-size: 12px;
+        }
+
+        .res-lsit-vouchlist {
+            padding: 0 5%;
+        }
+
+        .brand-img {
+            width: 60px;
+            height: 60px;
+        }
+
+        p.placeHold {
+            font-size: 14px;
+            font-family: 'be vietnam pro medium';
+        }
+
+        .sub-head {
+            font-size: 22px;
+        }
+
+        .status-bx .stats {
+            font-size: 14px;
+        }
+    }
+
+    /* ============================================================================= */
+
+    /* 800 PX */
+
+    @media screen and (max-width:800px) {
+        .tandc_ar input {
+            transform: rotate(270deg);
+            position: absolute;
+            left: 42%;
+            top: 2px;
+            width: 25px;
+        }
+
+        .res-twoButtons {
+            display: flex;
+            width: 115%;
+        }
+
+        .coinBag-icon {
+            width: 125px;
+            margin-top: 25px;
+        }
+
+        .res-twoButtons .borderbutton {
+            background-color: #fff0;
+            color: #EE8A4C;
+            border-radius: 47px;
+            border: 1px solid #EE8A4C;
+            padding: 0px 0px;
+            margin: 5px 5px;
+            width: 135%;
+            font-size: 14px;
+            height: 50px;
+        }
+
+        .res-twoButtons .clrbutton {
+            font-size: 14px;
+            background-color: #fff0;
+            color: #FFF;
+            border-radius: 47px;
+            border: none;
+            padding: 0px 0px;
+            margin: 5px 0px;
+            width: 100%;
+            height: 50px;
+        }
+
+        .bannertxt {
+            font-size: 35px !important;
+            margin-bottom: 15px;
+            font-family: 'be vietnam pro bold';
+        }
+
+        ..tandc_ar input {
+            transform: rotate(270deg);
+            position: absolute;
+            left: 35% !important;
+            top: -18px;
+            width: 65px;
+            z-index: 1;
+        }
+
+        .Terms-and-condition {
+            height: 130px;
+            background: #ffffff;
+            font-size: 18px;
+            width: 55% !important;
+            margin: 50px auto;
+            padding: 20px;
+            box-shadow: 1px 1px 10px #0000002b;
+            bottom: 50px;
+            z-index: 1;
+        }
+
+        accordion-button {
+            font-size: 14px;
+        }
+
+        .accordion-body {
+            font-size: 14px !important;
+        }
+
+        .Terms-and-condition {
+            height: 130px;
+            background: #ffffff;
+            font-size: 14px !important;
+            width: 60% !important;
+            margin: 5px auto !important;
+            padding: 20px 10px !important;
+            box-shadow: 1px 1px 10px #0000002b;
+            bottom: 50px;
+            z-index: 1;
+        }
+
+
+
+
+
+        ..tandc_ar input {
+            left: 30% !important;
+            top: -20px !important;
+        }
+
+        .footer-cont > p:nth-child(2) {
+            font-size: 12px;
+        }
+
+        .tandc_ar {
+            padding: 0;
+        }
+
+        .tc-head {
+            font-size: 14px !important;
+            font-weight: bold;
+            color: #FE833B;
+        }
+
+        .tcp {
+            font-size: 13px !important;
+            margin: 10px 0 0 0 !important;
+        }
+
+        .status-bx {
+            display: flex;
+            align-items: center;
+            width: 30%;
+            background: #FFF6F0;
+            height: 35px;
+            border-radius: 30px;
+            align-content: center;
+            justify-content: center;
+            margin: 10px 0 0 0;
+        }
+
+        .filter-bx img {
+            width: 15px;
+            height: 15px;
+            margin: 0 0px 0 0;
+            margin-inline-start: 5px;
+        }
+
+        .back-grad {
+            height: 120px;
+            background: none;
+            display: grid;
+            align-items: center;
+        }
+
+        .sub-head {
+            font-size: 18px;
+        }
+
+        p.placeHold {
+            font-size: 12px;
+            font-family: 'be vietnam pro medium';
+        }
+
+        .back-grad > div:nth-child(1) > div:nth-child(1) {
+            padding: 10px 5%;
+        }
+
+        .res-p-reflist {
+            padding: 0px 5%;
+        }
+
+        .res-lsit-reflist {
+            padding: 0 5%;
+        }
+
+        .next-ico {
+            height: 12px;
+            margin: 0px 0 0px 0;
+        }
+
+        .share-ico {
+            width: 20px;
+            height: 20px;
+        }
+
+        .s-s-n p {
+            margin: 0 10px;
+        }
+
+        #ContentPlaceHolder1_lnkbtnremind > p:nth-child(1) {
+            font-size: 12px;
+        }
+
+        .ref-btn {
+            width: 100%;
+            display: flex;
+            align-items: center;
+            position: relative;
+            left: 40px;
+        }
+
+        .nands, .clm {
+            padding: 0 !important;
+        }
+
+            .nands .st {
+                color: #00000078;
+                font-size: 12px;
+            }
+
+            .clm .status-bx {
+                display: flex;
+                align-items: center;
+                width: 100%;
+                background: #FFF6F0;
+                height: 35px;
+                border-radius: 30px;
+                align-content: center;
+                justify-content: center;
+                margin: 0px 0 0 0;
+                position: absolute;
+                right: 0;
+            }
+
+        .status-bx {
+            display: flex;
+            align-items: center;
+            width: 14%;
+            background: #FFF6F0;
+            height: 35px;
+            border-radius: 30px;
+            align-content: center;
+            justify-content: center;
+            margin: 10px 0 0 0;
+        }
+
+        .ref-btn {
+            width: auto !important;
+            display: flex;
+            align-items: center;
+            position: relative;
+            left: 0 !important;
+        }
+
+        .claim-btn {
+            position: relative;
+        }
+
+        .claimed-btn {
+            position: relative;
+        }
+
+        .status-bx .stats {
+            font-size: 12px;
+        }
+    }
+
+    /* ============================================================================= */
+
+    /* 768 PX */
+
+    @media screen and (max-width:768px) {
+        .tandc_ar input {
+            transform: rotate(270deg);
+            position: absolute;
+            left: 42%;
+            top: 2px;
+            width: 25px;
+        }
+
+        .res-twoButtons {
+            display: flex;
+            width: 115%;
+        }
+
+        .coinBag-icon {
+            width: 125px;
+            margin-top: 25px;
+        }
+
+        .res-twoButtons .borderbutton {
+            background-color: #fff0;
+            color: #EE8A4C;
+            border-radius: 47px;
+            border: 1px solid #EE8A4C;
+            padding: 0px 0px;
+            margin: 5px 5px;
+            width: 135%;
+            font-size: 14px;
+            height: 50px;
+        }
+
+        .res-twoButtons .clrbutton {
+            font-size: 14px;
+            background-color: #fff0;
+            color: #FFF;
+            border-radius: 47px;
+            border: none;
+            padding: 0px 0px;
+            margin: 5px 0px;
+            width: 100%;
+            height: 50px;
+        }
+
+        .bannertxt {
+            font-size: 35px !important;
+            margin-bottom: 15px;
+            font-family: 'be vietnam pro bold';
+        }
+
+        ..tandc_ar input {
+            transform: rotate(270deg);
+            position: absolute;
+            left: 35% !important;
+            top: -18px;
+            width: 65px;
+            z-index: 1;
+        }
+
+        .Terms-and-condition {
+            height: 130px;
+            background: #ffffff;
+            font-size: 18px;
+            width: 55% !important;
+            margin: 50px auto;
+            padding: 20px;
+            box-shadow: 1px 1px 10px #0000002b;
+            bottom: 50px;
+            z-index: 1;
+        }
+
+        accordion-button {
+            font-size: 14px;
+        }
+
+        .accordion-body {
+            font-size: 14px !important;
+        }
+
+        .Terms-and-condition {
+            height: 130px;
+            background: #ffffff;
+            font-size: 14px !important;
+            width: 60% !important;
+            margin: 5px auto !important;
+            padding: 20px 10px !important;
+            box-shadow: 1px 1px 10px #0000002b;
+            bottom: 50px;
+            z-index: 1;
+        }
+
+
+
+
+        ..tandc_ar input {
+            left: 30% !important;
+            top: -20px !important;
+        }
+
+        .footer-cont > p:nth-child(2) {
+            font-size: 12px;
+        }
+
+        .tandc_ar {
+            padding: 0;
+        }
+
+        .tc-head {
+            font-size: 14px !important;
+            font-weight: bold;
+            color: #FE833B;
+        }
+
+        .tcp {
+            font-size: 13px !important;
+            margin: 10px 0 0 0 !important;
+        }
+
+        .status-bx {
+            display: flex;
+            align-items: center;
+            width: 30%;
+            background: #FFF6F0;
+            height: 35px;
+            border-radius: 30px;
+            align-content: center;
+            justify-content: center;
+            margin: 10px 0 0 0;
+        }
+
+        .filter-bx img {
+            width: 15px;
+            height: 15px;
+            margin: 0 0px 0 0;
+            margin-inline-start: 5px;
+        }
+
+        .back-grad {
+            height: 120px;
+            background: none;
+            display: grid;
+            align-items: center;
+        }
+
+        .sub-head {
+            font-size: 18px;
+        }
+
+        p.placeHold {
+            font-size: 12px;
+            font-family: 'be vietnam pro medium';
+        }
+
+        .back-grad > div:nth-child(1) > div:nth-child(1) {
+            padding: 10px 5%;
+        }
+
+        .res-p-reflist {
+            padding: 0px 5%;
+        }
+
+        .res-lsit-reflist {
+            padding: 0 5%;
+        }
+
+        .next-ico {
+            height: 12px;
+            margin: 0px 0 0px 0;
+        }
+
+        .share-ico {
+            width: 20px;
+            height: 20px;
+        }
+
+        .s-s-n p {
+            margin: 0 10px;
+        }
+
+        #ContentPlaceHolder1_lnkbtnremind > p:nth-child(1) {
+            font-size: 12px;
+        }
+
+        .ref-btn {
+            width: 100%;
+            display: flex;
+            align-items: center;
+            position: relative;
+            left: 40px;
+        }
+
+        .nands, .clm {
+            padding: 0 !important;
+        }
+
+            .nands .st {
+                color: #00000078;
+                font-size: 12px;
+            }
+
+            .clm .status-bx {
+                display: flex;
+                align-items: center;
+                width: 100%;
+                background: #FFF6F0;
+                height: 35px;
+                border-radius: 30px;
+                align-content: center;
+                justify-content: center;
+                margin: 0px 0 0 0;
+                position: absolute;
+                right: 0;
+            }
+
+        .status-bx {
+            display: flex;
+            align-items: center;
+            width: 14%;
+            background: #FFF6F0;
+            height: 35px;
+            border-radius: 30px;
+            align-content: center;
+            justify-content: center;
+            margin: 10px 0 0 0;
+        }
+
+        .ref-btn {
+            width: auto !important;
+            display: flex;
+            align-items: center;
+            position: relative;
+            left: 0 !important;
+        }
+
+        .claim-btn {
+            position: relative;
+        }
+
+        .claimed-btn {
+            position: relative;
+        }
+
+        .status-bx .stats {
+            font-size: 12px;
+        }
+    }
+
+    /* ============================================================================= */
+
+    /* 600 PX */
+
+    @media screen and (max-width:600px) {
+
+        .container, .container-sm {
+            max-width: 620px;
+        }
+
+        .bannertxt {
+            font-size: 30px !important;
+            margin-bottom: 15px;
+            font-family: 'be vietnam pro bold';
+            text-align: center;
+            margin: 0 0px 5px 0;
+        }
+
+        .banner-desc {
+            font-size: 15px;
+            text-align: center;
+        }
+
+        .res-twoButtons {
+            display: grid;
+            width: 100% !important;
+        }
+
+        .banner-image {
+            margin: 0 auto;
+            position: relative;
+            width: 115% !important;
+            right: 45px;
+            top: 0px;
+        }
+
+        .help-img {
+            width: 22px !important;
+            margin: 0 0 0 5px;
+        }
+
+        .clrbutton {
+            width: 100% !important;
+        }
+
+        .borderbutton {
+            width: 100% !important;
+            margin: 5px 0 !important;
+        }
+
+        .clrbg {
+            background: transparent linear-gradient(140deg, #F1E9EA 0%, #E7F0FE 100%) 0% 0% no-repeat padding-box;
+            padding: 0 0 20px 0 !important;
+        }
+
+        .bannerClass {
+            flex-direction: column-reverse;
+        }
+
+        .verti {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            margin: 30px 0 0 0;
+        }
+
+        .res-header {
+            padding: 15px 0;
+            background: white;
+        }
+
+        .logo {
+            max-width: 200px;
+            margin: 0 0 0 10px;
+        }
+
+        .h-txt {
+            display: none;
+        }
+
+        #btnpopuphelp > img {
+            width: 18px;
+            margin: 0 0 0 5px;
+            position: absolute;
+            right: 30px;
+            top: 15px;
+        }
+
+        .res-header-row {
+            display: flex;
+            flex-wrap: nowrap;
+            position: relative;
+        }
+
+
+
+        .coinBag-icon {
+            width: 180px !important;
+            margin-top: 25px;
+        }
+
+        .res-er-txt {
+            text-align: center;
+            font-size: 30px;
+            font-family: 'be vietnam pro bold';
+        }
+
+        .res-er-p-txt {
+            text-align: center;
+            font-size: 14px;
+        }
+
+        .back-faq {
+            background: none !important;
+        }
+
+        .accordion-button {
+            font-size: 14px;
+        }
+
+        .accordion-body {
+            font-size: 14px !important;
+        }
+
+        .Terms-and-condition {
+            height: 130px;
+            background: #ffffff;
+            font-size: 14px !important;
+            width: 80% !important;
+            margin: 5px auto !important;
+            padding: 20px 10px !important;
+            box-shadow: 1px 1px 10px #0000002b;
+            bottom: 50px;
+            z-index: 1;
+        }
+
+
+
+
+        ..tandc_ar input {
+            left: 35% !important;
+            top: -20px !important;
+        }
+
+        .footer-cont > p:nth-child(2) {
+            font-size: 12px;
+        }
+
+        .tandc_ar {
+            padding: 0;
+        }
+
+        .tc-head {
+            font-size: 14px !important;
+            font-weight: bold;
+            color: #FE833B;
+        }
+
+        .tcp {
+            font-size: 13px !important;
+            margin: 10px 0 0 0 !important;
+        }
+
+        .footer-cont > p:nth-child(2) {
+            font-size: 16px;
+        }
+
+        .status-bx {
+            display: flex;
+            align-items: center;
+            width: 17% !important;
+            background: #FFF6F0;
+            height: 35px;
+            border-radius: 30px;
+            align-content: center;
+            justify-content: center;
+            margin: 10px 0 0 0;
+        }
+
+        .filter-bx img {
+            width: 15px;
+            height: 15px;
+            margin: 0 0px 0 0;
+            margin-inline-start: 5px;
+        }
+
+        .back-grad {
+            height: 120px;
+            background: none;
+            display: grid;
+            align-items: center;
+        }
+
+        .sub-head {
+            font-size: 18px;
+        }
+
+        p.placeHold {
+            font-size: 12px;
+            font-family: 'be vietnam pro medium';
+        }
+
+        .back-grad > div:nth-child(1) > div:nth-child(1) {
+            padding: 10px 5%;
+        }
+
+        .res-p-reflist {
+            padding: 0px 5%;
+        }
+
+        .res-lsit-reflist {
+            padding: 0 5%;
+        }
+
+        .next-ico {
+            height: 14px;
+            margin: 0px 0 0px 0;
+        }
+
+        .share-ico {
+            width: 25px !important;
+            height: 25px !important;
+        }
+
+        .s-s-n p {
+            margin: 0 10px;
+        }
+
+        #ContentPlaceHolder1_lnkbtnremind > p:nth-child(1) {
+            font-size: 14px !important;
+        }
+
+        .ref-btn {
+            width: 100%;
+            display: flex;
+            align-items: center;
+            position: relative;
+            left: 110px !important;
+        }
+
+        .nands, .clm {
+            padding: 0 !important;
+        }
+
+            .nands .st {
+                color: #00000078;
+                font-size: 12px;
+            }
+
+            .clm .status-bx {
+                display: flex;
+                align-items: center;
+                width: 70% !important;
+                background: #FFF6F0;
+                height: 35px;
+                border-radius: 30px;
+                align-content: center;
+                justify-content: center;
+                margin: 0px 0 0 0;
+                position: absolute;
+                right: 0;
+            }
+
+        .claim-btn {
+            position: relative;
+        }
+
+        .claimed-btn {
+            position: relative;
+        }
+
+        .status-bx .stats {
+            font-size: 14px;
+        }
+
+        .res-vou-row {
+            align-items: center;
+        }
+
+        .brand-img {
+            width: 45px !important;
+            height: 45px !important;
+        }
+
+        .br-price {
+            font-size: 18px;
+        }
+
+        .status-bx-red-d p, .status-bx-red-f p {
+            margin: 0;
+            font-size: 12px;
+        }
+
+        .status-bx-red-d {
+            display: flex;
+            align-items: center;
+            width: 100%;
+            background: #b1e4585c;
+            height: 30px;
+            border-radius: 30px;
+            align-content: center;
+            justify-content: center;
+            margin: 0px 0 0 0 !important;
+        }
+
+        .brand-nm {
+            color: #00000096;
+            font-family: 'be vietnam pro medium';
+            font-size: 12px;
+        }
+
+        div.white-back:nth-child(1) {
+            box-shadow: 0px 0px 10px #0000001a;
+            padding: 10px 10px;
+        }
+
+            div.white-back:nth-child(1) > div:nth-child(1) {
+                padding: 0;
+            }
+
+                div.white-back:nth-child(1) > div:nth-child(1) > div:nth-child(2) {
+                    align-items: center;
+                }
+
+        .res-p-vouchlist {
+            padding: 30px 5%;
+        }
+
+        .res-lsit-vouchlist {
+            padding: 0 5%;
+        }
+
+        .vouch-date {
+            font-size: 10px !important;
+        }
+    }
+
+    /* ============================================================================= */
+
+    /* 480 PX */
+
+    @media screen and (max-width:480px) {
+        .bannertxt {
+            font-size: 25px !important;
+            margin-bottom: 15px;
+            font-family: 'be vietnam pro bold';
+            text-align: center;
+            margin: 0 0px 5px 0;
+        }
+
+        .banner-desc {
+            font-size: 14px;
+            text-align: center;
+        }
+
+        .res-twoButtons {
+            display: grid;
+            width: 100% !important;
+        }
+
+        .banner-image {
+            margin: 0 auto;
+            position: relative;
+            width: 115% !important;
+            right: 45px;
+            top: 0px;
+        }
+
+        .help-img {
+            width: 22px !important;
+            margin: 0 0 0 5px;
+        }
+
+        .clrbutton {
+            width: 100% !important;
+        }
+
+        .borderbutton {
+            width: 100% !important;
+            margin: 5px 0 !important;
+        }
+
+        .clrbg {
+            background: transparent linear-gradient(140deg, #F1E9EA 0%, #E7F0FE 100%) 0% 0% no-repeat padding-box;
+            padding: 0 0 20px 0 !important;
+        }
+
+        .bannerClass {
+            flex-direction: column-reverse;
+        }
+
+        .verti {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            margin: 30px 0 0 0;
+        }
+
+        .res-header {
+            padding: 15px 0;
+            background: white;
+        }
+
+        .logo {
+            max-width: 200px;
+            margin: 0 0 0 10px;
+        }
+
+        .h-txt {
+            display: none;
+        }
+
+        #btnpopuphelp > img {
+            width: 18px;
+            margin: 0 0 0 5px;
+            position: absolute;
+            right: 30px;
+            top: 15px;
+        }
+
+        .res-header-row {
+            display: flex;
+            flex-wrap: nowrap;
+            position: relative;
+        }
+
+
+        .coinBag-icon {
+            width: 125px !important;
+            margin-top: 25px;
+        }
+
+        .res-er-txt {
+            text-align: center;
+            font-size: 25px;
+            font-family: 'be vietnam pro bold';
+        }
+
+        .res-er-p-txt {
+            text-align: center;
+            font-size: 10px;
+        }
+
+        .back-faq {
+            background: none !important;
+        }
+
+        .accordion-button {
+            font-size: 12px;
+        }
+
+        .accordion-body {
+            font-size: 12px !important;
+        }
+
+        .Terms-and-condition {
+            height: 130px;
+            background: #ffffff;
+            font-size: 14px !important;
+            width: 80% !important;
+            margin: 5px auto !important;
+            padding: 20px 10px !important;
+            box-shadow: 1px 1px 10px #0000002b;
+            bottom: 50px;
+            z-index: 1;
+        }
+
+
+
+        ..tandc_ar input {
+            left: 45% !important;
+            top: -20px !important;
+        }
+
+        .footer-cont > p:nth-child(2) {
+            font-size: 12px;
+        }
+
+        .tandc_ar {
+            padding: 0;
+        }
+
+        .tc-head {
+            font-size: 14px !important;
+            font-weight: bold;
+            color: #FE833B;
+        }
+
+        .tcp {
+            font-size: 11px !important;
+            margin: 10px 0 0 0 !important;
+        }
+
+        .status-bx {
+            display: flex;
+            align-items: center;
+            width: 20% !important;
+            background: #FFF6F0;
+            height: 35px;
+            border-radius: 30px;
+            align-content: center;
+            justify-content: center;
+            margin: 10px 0 0 0;
+        }
+
+        .filter-bx img {
+            width: 15px;
+            height: 15px;
+            margin: 0 0px 0 0;
+            margin-inline-start: 5px;
+        }
+
+        .back-grad {
+            height: 120px;
+            background: none;
+            display: grid;
+            align-items: center;
+        }
+
+        .sub-head {
+            font-size: 18px;
+        }
+
+        p.placeHold {
+            font-size: 12px;
+            font-family: 'be vietnam pro medium';
+        }
+
+        .back-grad > div:nth-child(1) > div:nth-child(1) {
+            padding: 10px 5%;
+        }
+
+        .res-p-reflist {
+            padding: 0px 5%;
+        }
+
+        .res-lsit-reflist {
+            padding: 0 5%;
+        }
+
+        .next-ico {
+            height: 12px;
+            margin: 0px 0 0px 0;
+        }
+
+        .share-ico {
+            width: 20px;
+            height: 20px;
+        }
+
+        .s-s-n p {
+            margin: 0 10px;
+        }
+
+        #ContentPlaceHolder1_lnkbtnremind > p:nth-child(1) {
+            font-size: 12px;
+        }
+
+        .ref-btn {
+            width: 100%;
+            display: flex;
+            align-items: center;
+            position: relative;
+            left: 85px !important;
+        }
+
+        .nands, .clm {
+            padding: 0 !important;
+        }
+
+            .nands .st {
+                color: #00000078;
+                font-size: 12px;
+            }
+
+            .clm .status-bx {
+                display: flex;
+                align-items: center;
+                width: 70% !important;
+                background: #FFF6F0;
+                height: 35px;
+                border-radius: 30px;
+                align-content: center;
+                justify-content: center;
+                margin: 0px 0 0 0;
+                position: absolute;
+                right: 0;
+            }
+
+        .claim-btn {
+            position: relative;
+        }
+
+        .claimed-btn {
+            position: relative;
+        }
+
+        .status-bx .stats {
+            font-size: 12px;
+        }
+
+        .res-vou-row {
+            align-items: center;
+        }
+
+        .brand-img {
+            width: 45px !important;
+            height: 45px !important;
+        }
+
+        .br-price {
+            font-size: 18px;
+        }
+
+        .status-bx-red-d p, .status-bx-red-f p {
+            margin: 0;
+            font-size: 12px;
+        }
+
+        .status-bx-red-d {
+            display: flex;
+            align-items: center;
+            width: 100%;
+            background: #b1e4585c;
+            height: 30px;
+            border-radius: 30px;
+            align-content: center;
+            justify-content: center;
+            margin: 0px 0 0 0 !important;
+        }
+
+        .brand-nm {
+            color: #00000096;
+            font-family: 'be vietnam pro medium';
+            font-size: 12px;
+        }
+
+        div.white-back:nth-child(1) {
+            box-shadow: 0px 0px 10px #0000001a;
+            padding: 10px 10px;
+        }
+
+            div.white-back:nth-child(1) > div:nth-child(1) {
+                padding: 0;
+            }
+
+                div.white-back:nth-child(1) > div:nth-child(1) > div:nth-child(2) {
+                    align-items: center;
+                }
+
+        .res-p-vouchlist {
+            padding: 30px 5%;
+        }
+
+        .res-lsit-vouchlist {
+            padding: 0 5%;
+        }
+
+        .vouch-date {
+            font-size: 10px !important;
+        }
+    }
+
+    /* ============================================================================= */
+
+    /* 428 PX */
+
+    @media screen and (max-width:428px) {
+        .bannertxt {
+            font-size: 25px !important;
+            margin-bottom: 15px;
+            font-family: 'be vietnam pro bold';
+            text-align: center;
+            margin: 0 0px 5px 0;
+        }
+
+        .banner-desc {
+            font-size: 14px;
+            text-align: center;
+        }
+
+        .res-twoButtons {
+            display: grid;
+            width: 100% !important;
+        }
+
+        .banner-image {
+            margin: 0 auto;
+            position: relative;
+            width: 115% !important;
+            right: 45px;
+            top: 0px;
+        }
+
+        .help-img {
+            width: 22px !important;
+            margin: 0 0 0 5px;
+        }
+
+        .clrbutton {
+            width: 100% !important;
+        }
+
+        .borderbutton {
+            width: 100% !important;
+            margin: 5px 0 !important;
+        }
+
+        .clrbg {
+            background: transparent linear-gradient(140deg, #F1E9EA 0%, #E7F0FE 100%) 0% 0% no-repeat padding-box;
+            padding: 0 0 20px 0 !important;
+        }
+
+        .bannerClass {
+            flex-direction: column-reverse;
+        }
+
+        .verti {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            margin: 30px 0 0 0;
+        }
+
+        .res-header {
+            padding: 15px 0;
+            background: white;
+        }
+
+        .logo {
+            max-width: 200px;
+            margin: 0 0 0 10px;
+        }
+
+        .h-txt {
+            display: none;
+        }
+
+        #btnpopuphelp > img {
+            width: 18px;
+            margin: 0 0 0 5px;
+            position: absolute;
+            right: 30px;
+            top: 15px;
+        }
+
+        .res-header-row {
+            display: flex;
+            flex-wrap: nowrap;
+            position: relative;
+        }
+
+
+
+        .coinBag-icon {
+            width: 125px !important;
+            margin-top: 25px;
+        }
+
+        .res-er-txt {
+            text-align: center;
+            font-size: 25px;
+            font-family: 'be vietnam pro bold';
+        }
+
+        .res-er-p-txt {
+            text-align: center;
+            font-size: 10px;
+        }
+
+        .back-faq {
+            background: none !important;
+        }
+
+        .accordion-button {
+            font-size: 12px;
+        }
+
+        .accordion-body {
+            font-size: 12px !important;
+        }
+
+        .Terms-and-condition {
+            height: 130px;
+            background: #ffffff;
+            font-size: 14px !important;
+            width: 80% !important;
+            margin: 5px auto !important;
+            padding: 20px 10px !important;
+            box-shadow: 1px 1px 10px #0000002b;
+            bottom: 50px;
+            z-index: 1;
+        }
+
+
+
+
+        ..tandc_ar input {
+            left: 45% !important;
+            top: -20px !important;
+        }
+
+        .footer-cont > p:nth-child(2) {
+            font-size: 12px;
+        }
+
+        .tandc_ar {
+            padding: 0;
+        }
+
+        .tc-head {
+            font-size: 14px !important;
+            font-weight: bold;
+            color: #FE833B;
+        }
+
+        .tcp {
+            font-size: 11px !important;
+            margin: 10px 0 0 0 !important;
+        }
+
+        .status-bx {
+            display: flex;
+            align-items: center;
+            width: 25% !important;
+            background: #FFF6F0;
+            height: 35px;
+            border-radius: 30px;
+            align-content: center;
+            justify-content: center;
+            margin: 10px 0 0 0;
+        }
+
+        .filter-bx img {
+            width: 15px;
+            height: 15px;
+            margin: 0 0px 0 0;
+            margin-inline-start: 5px;
+        }
+
+        .back-grad {
+            height: 120px;
+            background: none;
+            display: grid;
+            align-items: center;
+        }
+
+        .sub-head {
+            font-size: 18px;
+        }
+
+        p.placeHold {
+            font-size: 12px;
+            font-family: 'be vietnam pro medium';
+        }
+
+        .back-grad > div:nth-child(1) > div:nth-child(1) {
+            padding: 10px 5%;
+        }
+
+        .res-p-reflist {
+            padding: 0px 5%;
+        }
+
+        .res-lsit-reflist {
+            padding: 0 5%;
+        }
+
+        .next-ico {
+            height: 12px;
+            margin: 0px 0 0px 0;
+        }
+
+        .share-ico {
+            width: 20px;
+            height: 20px;
+        }
+
+        .s-s-n p {
+            margin: 0 10px;
+        }
+
+        #ContentPlaceHolder1_lnkbtnremind > p:nth-child(1) {
+            font-size: 12px;
+        }
+
+        .ref-btn {
+            width: 100%;
+            display: flex;
+            align-items: center;
+            position: relative;
+            left: 60px !important;
+        }
+
+        .nands, .clm {
+            padding: 0 !important;
+        }
+
+            .nands .st {
+                color: #00000078;
+                font-size: 12px;
+            }
+
+            .clm .status-bx {
+                display: flex;
+                align-items: center;
+                width: 70% !important;
+                background: #FFF6F0;
+                height: 35px;
+                border-radius: 30px;
+                align-content: center;
+                justify-content: center;
+                margin: 0px 0 0 0;
+                position: absolute;
+                right: 0;
+            }
+
+        .claim-btn {
+            position: relative;
+        }
+
+        .claimed-btn {
+            position: relative;
+        }
+
+        .status-bx .stats {
+            font-size: 12px;
+        }
+
+        .res-vou-row {
+            align-items: center;
+        }
+
+        .brand-img {
+            width: 45px !important;
+            height: 45px !important;
+        }
+
+        .br-price {
+            font-size: 18px;
+        }
+
+        .status-bx-red-d p, .status-bx-red-f p {
+            margin: 0;
+            font-size: 12px;
+        }
+
+        .status-bx-red-d {
+            display: flex;
+            align-items: center;
+            width: 100%;
+            background: #b1e4585c;
+            height: 30px;
+            border-radius: 30px;
+            align-content: center;
+            justify-content: center;
+            margin: 0px 0 0 0 !important;
+        }
+
+        .brand-nm {
+            color: #00000096;
+            font-family: 'be vietnam pro medium';
+            font-size: 12px;
+        }
+
+        div.white-back:nth-child(1) {
+            box-shadow: 0px 0px 10px #0000001a;
+            padding: 10px 10px;
+        }
+
+            div.white-back:nth-child(1) > div:nth-child(1) {
+                padding: 0;
+            }
+
+                div.white-back:nth-child(1) > div:nth-child(1) > div:nth-child(2) {
+                    align-items: center;
+                }
+
+        .res-p-vouchlist {
+            padding: 30px 5%;
+        }
+
+        .res-lsit-vouchlist {
+            padding: 0 5%;
+        }
+
+        .vouch-date {
+            font-size: 10px !important;
+        }
+    }
+
+    /* ============================================================================= */
+
+    /* 414 PX */
+
+    @media screen and (max-width:414px) {
+        .bannertxt {
+            font-size: 25px !important;
+            margin-bottom: 15px;
+            font-family: 'be vietnam pro bold';
+            text-align: center;
+            margin: 0 0px 5px 0;
+        }
+
+        .banner-desc {
+            font-size: 14px;
+            text-align: center;
+        }
+
+        .res-twoButtons {
+            display: grid;
+            width: 100% !important;
+        }
+
+        .banner-image {
+            margin: 0 auto;
+            position: relative;
+            width: 115% !important;
+            right: 45px;
+            top: 0px;
+        }
+
+        .help-img {
+            width: 22px !important;
+            margin: 0 0 0 5px;
+        }
+
+        .clrbutton {
+            width: 100% !important;
+        }
+
+        .borderbutton {
+            width: 100% !important;
+            margin: 5px 0 !important;
+        }
+
+        .clrbg {
+            background: transparent linear-gradient(140deg, #F1E9EA 0%, #E7F0FE 100%) 0% 0% no-repeat padding-box;
+            padding: 0 0 20px 0 !important;
+        }
+
+        .bannerClass {
+            flex-direction: column-reverse;
+        }
+
+        .verti {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            margin: 30px 0 0 0;
+        }
+
+        .res-header {
+            padding: 15px 0;
+            background: white;
+        }
+
+        .logo {
+            max-width: 200px;
+            margin: 0 0 0 10px;
+        }
+
+        .h-txt {
+            display: none;
+        }
+
+        #btnpopuphelp > img {
+            width: 18px;
+            margin: 0 0 0 5px;
+            position: absolute;
+            right: 30px;
+            top: 15px;
+        }
+
+        .res-header-row {
+            display: flex;
+            flex-wrap: nowrap;
+            position: relative;
+        }
+
+
+
+        .coinBag-icon {
+            width: 125px !important;
+            margin-top: 25px;
+        }
+
+        .res-er-txt {
+            text-align: center;
+            font-size: 25px;
+            font-family: 'be vietnam pro bold';
+        }
+
+        .res-er-p-txt {
+            text-align: center;
+            font-size: 10px;
+        }
+
+        .back-faq {
+            background: none !important;
+        }
+
+        .accordion-button {
+            font-size: 12px;
+        }
+
+        .accordion-body {
+            font-size: 12px !important;
+        }
+
+        .Terms-and-condition {
+            height: 130px;
+            background: #ffffff;
+            font-size: 14px !important;
+            width: 80% !important;
+            margin: 5px auto !important;
+            padding: 20px 10px !important;
+            box-shadow: 1px 1px 10px #0000002b;
+            bottom: 50px;
+            z-index: 1;
+        }
+
+
+
+
+        ..tandc_ar input {
+            left: 45% !important;
+            top: -20px !important;
+        }
+
+        .footer-cont > p:nth-child(2) {
+            font-size: 12px;
+        }
+
+        .tandc_ar {
+            padding: 0;
+        }
+
+        .tc-head {
+            font-size: 14px !important;
+            font-weight: bold;
+            color: #FE833B;
+        }
+
+        .tcp {
+            font-size: 11px !important;
+            margin: 10px 0 0 0 !important;
+        }
+
+        .status-bx {
+            display: flex;
+            align-items: center;
+            width: 30%;
+            background: #FFF6F0;
+            height: 35px;
+            border-radius: 30px;
+            align-content: center;
+            justify-content: center;
+            margin: 10px 0 0 0;
+        }
+
+        .filter-bx img {
+            width: 15px;
+            height: 15px;
+            margin: 0 0px 0 0;
+            margin-inline-start: 5px;
+        }
+
+        .back-grad {
+            height: 120px;
+            background: none;
+            display: grid;
+            align-items: center;
+        }
+
+        .sub-head {
+            font-size: 18px;
+        }
+
+        p.placeHold {
+            font-size: 12px;
+            font-family: 'be vietnam pro medium';
+        }
+
+        .back-grad > div:nth-child(1) > div:nth-child(1) {
+            padding: 10px 5%;
+        }
+
+        .res-p-reflist {
+            padding: 0px 5%;
+        }
+
+        .res-lsit-reflist {
+            padding: 0 5%;
+        }
+
+        .next-ico {
+            height: 12px;
+            margin: 0px 0 0px 0;
+        }
+
+        .share-ico {
+            width: 20px;
+            height: 20px;
+        }
+
+        .s-s-n p {
+            margin: 0 10px;
+        }
+
+        #ContentPlaceHolder1_lnkbtnremind > p:nth-child(1) {
+            font-size: 12px;
+        }
+
+        .ref-btn {
+            width: 100%;
+            display: flex;
+            align-items: center;
+            position: relative;
+            left: 40px;
+        }
+
+        .nands, .clm {
+            padding: 0 !important;
+        }
+
+            .nands .st {
+                color: #00000078;
+                font-size: 12px;
+            }
+
+            .clm .status-bx {
+                display: flex;
+                align-items: center;
+                width: 70% !important;
+                background: #FFF6F0;
+                height: 35px;
+                border-radius: 30px;
+                align-content: center;
+                justify-content: center;
+                margin: 0px 0 0 0;
+                position: absolute;
+                right: 0;
+            }
+
+        .claim-btn {
+            position: relative;
+        }
+
+        .claimed-btn {
+            position: relative;
+        }
+
+        .status-bx .stats {
+            font-size: 12px;
+        }
+
+        .res-vou-row {
+            align-items: center;
+        }
+
+        .brand-img {
+            width: 45px !important;
+            height: 45px !important;
+        }
+
+        .br-price {
+            font-size: 18px;
+        }
+
+        .status-bx-red-d p, .status-bx-red-f p {
+            margin: 0;
+            font-size: 12px;
+        }
+
+        .status-bx-red-d {
+            display: flex;
+            align-items: center;
+            width: 100%;
+            background: #b1e4585c;
+            height: 30px;
+            border-radius: 30px;
+            align-content: center;
+            justify-content: center;
+            margin: 0px 0 0 0 !important;
+        }
+
+        .brand-nm {
+            color: #00000096;
+            font-family: 'be vietnam pro medium';
+            font-size: 12px;
+        }
+
+        div.white-back:nth-child(1) {
+            box-shadow: 0px 0px 10px #0000001a;
+            padding: 10px 10px;
+        }
+
+            div.white-back:nth-child(1) > div:nth-child(1) {
+                padding: 0;
+            }
+
+                div.white-back:nth-child(1) > div:nth-child(1) > div:nth-child(2) {
+                    align-items: center;
+                }
+
+        .res-p-vouchlist {
+            padding: 30px 5%;
+        }
+
+        .res-lsit-vouchlist {
+            padding: 0 5%;
+        }
+
+        .vouch-date {
+            font-size: 10px !important;
+        }
+    }
+
+    /* ============================================================================= */
+
+    /* 414 PX */
+
+    @media screen and (max-width:414px) {
+        .bannertxt {
+            font-size: 25px !important;
+            margin-bottom: 15px;
+            font-family: 'be vietnam pro bold';
+            text-align: center;
+            margin: 0 0px 5px 0;
+        }
+
+        .banner-desc {
+            font-size: 14px;
+            text-align: center;
+        }
+
+        .res-twoButtons {
+            display: grid;
+            width: 100% !important;
+        }
+
+        .banner-image {
+            margin: 0 auto;
+            position: relative;
+            width: 115% !important;
+            right: 45px;
+            top: 0px;
+        }
+
+        .help-img {
+            width: 22px !important;
+            margin: 0 0 0 5px;
+        }
+
+        .clrbutton {
+            width: 100% !important;
+        }
+
+        .borderbutton {
+            width: 100% !important;
+            margin: 5px 0 !important;
+        }
+
+        .clrbg {
+            background: transparent linear-gradient(140deg, #F1E9EA 0%, #E7F0FE 100%) 0% 0% no-repeat padding-box;
+            padding: 0 0 20px 0 !important;
+        }
+
+        .bannerClass {
+            flex-direction: column-reverse;
+        }
+
+        .verti {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            margin: 30px 0 0 0;
+        }
+
+        .res-header {
+            padding: 15px 0;
+            background: white;
+        }
+
+        .logo {
+            max-width: 200px;
+            margin: 0 0 0 10px;
+        }
+
+        .h-txt {
+            display: none;
+        }
+
+        #btnpopuphelp > img {
+            width: 18px;
+            margin: 0 0 0 5px;
+            position: absolute;
+            right: 30px;
+            top: 15px;
+        }
+
+        .res-header-row {
+            display: flex;
+            flex-wrap: nowrap;
+            position: relative;
+        }
+
+
+        .coinBag-icon {
+            width: 125px !important;
+            margin-top: 25px;
+        }
+
+        .res-er-txt {
+            text-align: center;
+            font-size: 25px;
+            font-family: 'be vietnam pro bold';
+        }
+
+        .res-er-p-txt {
+            text-align: center;
+            font-size: 10px;
+        }
+
+        .back-faq {
+            background: none !important;
+        }
+
+        .accordion-button {
+            font-size: 12px;
+        }
+
+        .accordion-body {
+            font-size: 12px !important;
+        }
+
+        .Terms-and-condition {
+            height: 130px;
+            background: #ffffff;
+            font-size: 14px !important;
+            width: 80% !important;
+            margin: 5px auto !important;
+            padding: 20px 10px !important;
+            box-shadow: 1px 1px 10px #0000002b;
+            bottom: 50px;
+            z-index: 1;
+        }
+
+
+
+
+        ..tandc_ar input {
+            left: 45% !important;
+            top: -20px !important;
+        }
+
+        .footer-cont > p:nth-child(2) {
+            font-size: 12px;
+        }
+
+        .tandc_ar {
+            padding: 0;
+        }
+
+        .tc-head {
+            font-size: 14px !important;
+            font-weight: bold;
+            color: #FE833B;
+        }
+
+        .tcp {
+            font-size: 11px !important;
+            margin: 10px 0 0 0 !important;
+        }
+
+        .status-bx {
+            display: flex;
+            align-items: center;
+            width: 25% !important;
+            background: #FFF6F0;
+            height: 35px;
+            border-radius: 30px;
+            align-content: center;
+            justify-content: center;
+            margin: 10px 0 0 0;
+        }
+
+        .filter-bx img {
+            width: 15px;
+            height: 15px;
+            margin: 0 0px 0 0;
+            margin-inline-start: 5px;
+        }
+
+        .back-grad {
+            height: 120px;
+            background: none;
+            display: grid;
+            align-items: center;
+        }
+
+        .sub-head {
+            font-size: 18px;
+        }
+
+        p.placeHold {
+            font-size: 12px;
+            font-family: 'be vietnam pro medium';
+        }
+
+        .back-grad > div:nth-child(1) > div:nth-child(1) {
+            padding: 10px 5%;
+        }
+
+        .res-p-reflist {
+            padding: 0px 5%;
+        }
+
+        .res-lsit-reflist {
+            padding: 0 5%;
+        }
+
+        .next-ico {
+            height: 12px;
+            margin: 0px 0 0px 0;
+        }
+
+        .share-ico {
+            width: 20px;
+            height: 20px;
+        }
+
+        .s-s-n p {
+            margin: 0 10px;
+        }
+
+        #ContentPlaceHolder1_lnkbtnremind > p:nth-child(1) {
+            font-size: 12px;
+        }
+
+        .ref-btn {
+            width: 100%;
+            display: flex;
+            align-items: center;
+            position: relative;
+            left: 60px !important;
+        }
+
+        .nands, .clm {
+            padding: 0 !important;
+        }
+
+            .nands .st {
+                color: #00000078;
+                font-size: 12px;
+            }
+
+            .clm .status-bx {
+                display: flex;
+                align-items: center;
+                width: 70% !important;
+                background: #FFF6F0;
+                height: 35px;
+                border-radius: 30px;
+                align-content: center;
+                justify-content: center;
+                margin: 0px 0 0 0;
+                position: absolute;
+                right: 0;
+            }
+
+        .claim-btn {
+            position: relative;
+        }
+
+        .claimed-btn {
+            position: relative;
+        }
+
+        .status-bx .stats {
+            font-size: 12px;
+        }
+
+        .res-vou-row {
+            align-items: center;
+        }
+
+        .brand-img {
+            width: 30px;
+            height: 30px;
+        }
+
+        .br-price {
+            font-size: 18px;
+        }
+
+        .status-bx-red-d p, .status-bx-red-f p {
+            margin: 0;
+            font-size: 12px;
+        }
+
+        .status-bx-red-d {
+            display: flex;
+            align-items: center;
+            width: 100%;
+            background: #b1e4585c;
+            height: 30px;
+            border-radius: 30px;
+            align-content: center;
+            justify-content: center;
+            margin: 0px 0 0 0 !important;
+        }
+
+        .brand-nm {
+            color: #00000096;
+            font-family: 'be vietnam pro medium';
+            font-size: 12px;
+        }
+
+        div.white-back:nth-child(1) {
+            box-shadow: 0px 0px 10px #0000001a;
+            padding: 10px 10px;
+        }
+
+            div.white-back:nth-child(1) > div:nth-child(1) {
+                padding: 0;
+            }
+
+                div.white-back:nth-child(1) > div:nth-child(1) > div:nth-child(2) {
+                    align-items: center;
+                }
+
+        .res-p-vouchlist {
+            padding: 30px 5%;
+        }
+
+        .res-lsit-vouchlist {
+            padding: 0 5%;
+        }
+
+        .vouch-date {
+            font-size: 10px !important;
+        }
+    }
+
+    /* ============================================================================= */
+
+    /* 412 PX */
+
+    @media screen and (max-width:412px) {
+        .bannertxt {
+            font-size: 25px !important;
+            margin-bottom: 15px;
+            font-family: 'be vietnam pro bold';
+            text-align: center;
+            margin: 0 0px 5px 0;
+        }
+
+        .banner-desc {
+            font-size: 14px;
+            text-align: center;
+        }
+
+        .res-twoButtons {
+            display: grid;
+            width: 100% !important;
+        }
+
+        .banner-image {
+            margin: 0 auto;
+            position: relative;
+            width: 115% !important;
+            right: 45px;
+            top: 0px;
+        }
+
+        .help-img {
+            width: 22px !important;
+            margin: 0 0 0 5px;
+        }
+
+        .clrbutton {
+            width: 100% !important;
+        }
+
+        .borderbutton {
+            width: 100% !important;
+            margin: 5px 0 !important;
+        }
+
+        .clrbg {
+            background: transparent linear-gradient(140deg, #F1E9EA 0%, #E7F0FE 100%) 0% 0% no-repeat padding-box;
+            padding: 0 0 20px 0 !important;
+        }
+
+        .bannerClass {
+            flex-direction: column-reverse;
+        }
+
+        .verti {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            margin: 30px 0 0 0;
+        }
+
+        .res-header {
+            padding: 15px 0;
+            background: white;
+        }
+
+        .logo {
+            max-width: 200px;
+            margin: 0 0 0 10px;
+        }
+
+        .h-txt {
+            display: none;
+        }
+
+        #btnpopuphelp > img {
+            width: 18px;
+            margin: 0 0 0 5px;
+            position: absolute;
+            right: 30px;
+            top: 15px;
+        }
+
+        .res-header-row {
+            display: flex;
+            flex-wrap: nowrap;
+            position: relative;
+        }
+
+
+
+        .coinBag-icon {
+            width: 125px !important;
+            margin-top: 25px;
+        }
+
+        .res-er-txt {
+            text-align: center;
+            font-size: 25px;
+            font-family: 'be vietnam pro bold';
+        }
+
+        .res-er-p-txt {
+            text-align: center;
+            font-size: 10px;
+        }
+
+        .back-faq {
+            background: none !important;
+        }
+
+        .accordion-button {
+            font-size: 12px;
+        }
+
+        .accordion-body {
+            font-size: 12px !important;
+        }
+
+        .Terms-and-condition {
+            height: 130px;
+            background: #ffffff;
+            font-size: 14px !important;
+            width: 80% !important;
+            margin: 5px auto !important;
+            padding: 20px 10px !important;
+            box-shadow: 1px 1px 10px #0000002b;
+            bottom: 50px;
+            z-index: 1;
+        }
+
+
+
+        ..tandc_ar input {
+            left: 45% !important;
+            top: -20px !important;
+        }
+
+        .footer-cont > p:nth-child(2) {
+            font-size: 12px;
+        }
+
+        .tandc_ar {
+            padding: 0;
+        }
+
+        .tc-head {
+            font-size: 14px !important;
+            font-weight: bold;
+            color: #FE833B;
+        }
+
+        .tcp {
+            font-size: 11px !important;
+            margin: 10px 0 0 0 !important;
+        }
+
+        .status-bx {
+            display: flex;
+            align-items: center;
+            width: 25% !important;
+            background: #FFF6F0;
+            height: 35px;
+            border-radius: 30px;
+            align-content: center;
+            justify-content: center;
+            margin: 10px 0 0 0;
+        }
+
+        .filter-bx img {
+            width: 15px;
+            height: 15px;
+            margin: 0 0px 0 0;
+            margin-inline-start: 5px;
+        }
+
+        .back-grad {
+            height: 120px;
+            background: none;
+            display: grid;
+            align-items: center;
+        }
+
+        .sub-head {
+            font-size: 18px;
+        }
+
+        p.placeHold {
+            font-size: 12px;
+            font-family: 'be vietnam pro medium';
+        }
+
+        .back-grad > div:nth-child(1) > div:nth-child(1) {
+            padding: 10px 5%;
+        }
+
+        .res-p-reflist {
+            padding: 0px 5%;
+        }
+
+        .res-lsit-reflist {
+            padding: 0 5%;
+        }
+
+        .next-ico {
+            height: 12px;
+            margin: 0px 0 0px 0;
+        }
+
+        .share-ico {
+            width: 20px;
+            height: 20px;
+        }
+
+        .s-s-n p {
+            margin: 0 10px;
+        }
+
+        #ContentPlaceHolder1_lnkbtnremind > p:nth-child(1) {
+            font-size: 12px;
+        }
+
+        .ref-btn {
+            width: 100%;
+            display: flex;
+            align-items: center;
+            position: relative;
+            left: 60px !important;
+        }
+
+        .nands, .clm {
+            padding: 0 !important;
+        }
+
+            .nands .st {
+                color: #00000078;
+                font-size: 12px;
+            }
+
+            .clm .status-bx {
+                display: flex;
+                align-items: center;
+                width: 70% !important;
+                background: #FFF6F0;
+                height: 35px;
+                border-radius: 30px;
+                align-content: center;
+                justify-content: center;
+                margin: 0px 0 0 0;
+                position: absolute;
+                right: 0;
+            }
+
+        .claim-btn {
+            position: relative;
+        }
+
+        .claimed-btn {
+            position: relative;
+        }
+
+        .status-bx .stats {
+            font-size: 12px;
+        }
+
+        .res-vou-row {
+            align-items: center;
+        }
+
+        .brand-img {
+            width: 45px !important;
+            height: 45px !important;
+        }
+
+        .br-price {
+            font-size: 18px;
+        }
+
+        .status-bx-red-d p, .status-bx-red-f p {
+            margin: 0;
+            font-size: 12px;
+        }
+
+        .status-bx-red-d {
+            display: flex;
+            align-items: center;
+            width: 100%;
+            background: #b1e4585c;
+            height: 30px;
+            border-radius: 30px;
+            align-content: center;
+            justify-content: center;
+            margin: 0px 0 0 0 !important;
+        }
+
+        .brand-nm {
+            color: #00000096;
+            font-family: 'be vietnam pro medium';
+            font-size: 12px;
+        }
+
+        div.white-back:nth-child(1) {
+            box-shadow: 0px 0px 10px #0000001a;
+            padding: 10px 10px;
+        }
+
+            div.white-back:nth-child(1) > div:nth-child(1) {
+                padding: 0;
+            }
+
+                div.white-back:nth-child(1) > div:nth-child(1) > div:nth-child(2) {
+                    align-items: center;
+                }
+
+        .res-p-vouchlist {
+            padding: 30px 5%;
+        }
+
+        .res-lsit-vouchlist {
+            padding: 0 5%;
+        }
+
+        .vouch-date {
+            font-size: 10px !important;
+        }
+    }
+
+    /* ============================================================================= */
+
+    /* 390 PX */
+
+    @media screen and (max-width:390px) {
+        .bannertxt {
+            font-size: 25px !important;
+            margin-bottom: 15px;
+            font-family: 'be vietnam pro bold';
+            text-align: center;
+            margin: 0 0px 5px 0;
+        }
+
+        .banner-desc {
+            font-size: 14px;
+            text-align: center;
+        }
+
+        .res-twoButtons {
+            display: grid;
+            width: 100% !important;
+        }
+
+        .banner-image {
+            margin: 0 auto;
+            position: relative;
+            right: 45px;
+            top: 0px;
+        }
+
+        .clrbutton {
+            width: 100% !important;
+        }
+
+        .borderbutton {
+            width: 100% !important;
+            margin: 5px 0 !important;
+        }
+
+        .clrbg {
+            background: transparent linear-gradient(140deg, #F1E9EA 0%, #E7F0FE 100%) 0% 0% no-repeat padding-box;
+            padding: 0 0 20px 0 !important;
+        }
+
+        .bannerClass {
+            flex-direction: column-reverse;
+        }
+
+        .verti {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            margin: 30px 0 0 0;
+        }
+
+        .res-header {
+            padding: 15px 0;
+            background: white;
+        }
+
+        .logo {
+            max-width: 200px;
+            margin: 0 0 0 10px;
+        }
+
+        .h-txt {
+            display: none;
+        }
+
+        #btnpopuphelp > img {
+            width: 18px;
+            margin: 0 0 0 5px;
+            position: absolute;
+            right: 30px;
+            top: 15px;
+        }
+
+        .res-header-row {
+            display: flex;
+            flex-wrap: nowrap;
+            position: relative;
+        }
+
+
+
+        .coinBag-icon {
+            width: 125px !important;
+            margin-top: 25px;
+        }
+
+        .res-er-txt {
+            text-align: center;
+            font-size: 25px;
+            font-family: 'be vietnam pro bold';
+        }
+
+        .res-er-p-txt {
+            text-align: center;
+            font-size: 10px;
+        }
+
+        .back-faq {
+            background: none !important;
+        }
+
+        .accordion-button {
+            font-size: 12px;
+        }
+
+        .accordion-body {
+            font-size: 12px !important;
+        }
+
+        .Terms-and-condition {
+            height: 130px;
+            background: #ffffff;
+            font-size: 14px !important;
+            width: 80% !important;
+            margin: 5px auto !important;
+            padding: 20px 10px !important;
+            box-shadow: 1px 1px 10px #0000002b;
+            bottom: 50px;
+            z-index: 1;
+        }
+
+
+
+        ..tandc_ar input {
+            left: 55% !important;
+            top: -20px !important;
+        }
+
+        .footer-cont > p:nth-child(2) {
+            font-size: 12px;
+        }
+
+        .tandc_ar {
+            padding: 0;
+        }
+
+        .tc-head {
+            font-size: 14px !important;
+            font-weight: bold;
+            color: #FE833B;
+        }
+
+        .tcp {
+            font-size: 10px !important;
+            margin: 10px 0 0 0 !important;
+        }
+
+        .status-bx {
+            display: flex;
+            align-items: center;
+            width: 25% !important;
+            background: #FFF6F0;
+            height: 35px;
+            border-radius: 30px;
+            align-content: center;
+            justify-content: center;
+            margin: 10px 0 0 0;
+        }
+
+        .filter-bx img {
+            width: 15px;
+            height: 15px;
+            margin: 0 0px 0 0;
+            margin-inline-start: 5px;
+        }
+
+        .back-grad {
+            height: 120px;
+            background: none;
+            display: grid;
+            align-items: center;
+        }
+
+        .sub-head {
+            font-size: 18px;
+        }
+
+        p.placeHold {
+            font-size: 12px;
+            font-family: 'be vietnam pro medium';
+        }
+
+        .back-grad > div:nth-child(1) > div:nth-child(1) {
+            padding: 10px 5%;
+        }
+
+        .res-p-reflist {
+            padding: 0px 5%;
+        }
+
+        .res-lsit-reflist {
+            padding: 0 5%;
+        }
+
+        .next-ico {
+            height: 12px;
+            margin: 0px 0 0px 0;
+        }
+
+        .share-ico {
+            width: 20px;
+            height: 20px;
+        }
+
+        .s-s-n p {
+            margin: 0 10px;
+        }
+
+        #ContentPlaceHolder1_lnkbtnremind > p:nth-child(1) {
+            font-size: 12px;
+        }
+
+        .ref-btn {
+            width: 100%;
+            display: flex;
+            align-items: center;
+            position: relative;
+            left: 60px !important;
+        }
+
+        .nands, .clm {
+            padding: 0 !important;
+        }
+
+            .nands .st {
+                color: #00000078;
+                font-size: 12px;
+            }
+
+            .clm .status-bx {
+                display: flex;
+                align-items: center;
+                width: 70%;
+                background: #FFF6F0;
+                height: 35px;
+                border-radius: 30px;
+                align-content: center;
+                justify-content: center;
+                margin: 0px 0 0 0;
+                position: absolute;
+                right: 0;
+            }
+
+        .claim-btn {
+            position: relative;
+        }
+
+        .claimed-btn {
+            position: relative;
+        }
+
+        .status-bx .stats {
+            font-size: 12px;
+        }
+
+        .res-vou-row {
+            align-items: center;
+        }
+
+        .brand-img {
+            width: 45px !important;
+            height: 45px !important;
+        }
+
+        .br-price {
+            font-size: 18px;
+        }
+
+        .status-bx-red-d p, .status-bx-red-f p {
+            margin: 0;
+            font-size: 12px;
+        }
+
+        .status-bx-red-d {
+            display: flex;
+            align-items: center;
+            width: 100%;
+            background: #b1e4585c;
+            height: 30px;
+            border-radius: 30px;
+            align-content: center;
+            justify-content: center;
+            margin: 0px 0 0 0 !important;
+        }
+
+        .brand-nm {
+            color: #00000096;
+            font-family: 'be vietnam pro medium';
+            font-size: 12px;
+        }
+
+        div.white-back:nth-child(1) {
+            box-shadow: 0px 0px 10px #0000001a;
+            padding: 10px 10px;
+        }
+
+            div.white-back:nth-child(1) > div:nth-child(1) {
+                padding: 0;
+            }
+
+                div.white-back:nth-child(1) > div:nth-child(1) > div:nth-child(2) {
+                    align-items: center;
+                }
+
+        .res-p-vouchlist {
+            padding: 30px 5%;
+        }
+
+        .res-lsit-vouchlist {
+            padding: 0 5%;
+        }
+
+        .vouch-date {
+            font-size: 10px !important;
+        }
+    }
+
+    /* ============================================================================= */
+
+    /* 375 PX */
+
+    @media screen and (max-width:375px) {
+        .bannertxt {
+            font-size: 25px !important;
+            margin-bottom: 15px;
+            font-family: 'be vietnam pro bold';
+            text-align: center;
+            margin: 0 0px 5px 0;
+        }
+
+        .banner-desc {
+            font-size: 14px;
+            text-align: center;
+        }
+
+        .res-twoButtons {
+            display: grid;
+            width: 100% !important;
+        }
+
+        .banner-image {
+            margin: 0 auto;
+            position: relative;
+            right: 45px;
+            top: 0px;
+        }
+
+        .clrbutton {
+            width: 100% !important;
+        }
+
+        .borderbutton {
+            width: 100% !important;
+            margin: 5px 0 !important;
+        }
+
+        .clrbg {
+            background: transparent linear-gradient(140deg, #F1E9EA 0%, #E7F0FE 100%) 0% 0% no-repeat padding-box;
+            padding: 0 0 20px 0 !important;
+        }
+
+        .bannerClass {
+            flex-direction: column-reverse;
+        }
+
+        .verti {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            margin: 30px 0 0 0;
+        }
+
+        .res-header {
+            padding: 15px 0;
+            background: white;
+        }
+
+        .logo {
+            max-width: 200px;
+            margin: 0 0 0 10px;
+        }
+
+        .h-txt {
+            display: none;
+        }
+
+        #btnpopuphelp > img {
+            width: 18px;
+            margin: 0 0 0 5px;
+            position: absolute;
+            right: 30px;
+            top: 15px;
+        }
+
+        .res-header-row {
+            display: flex;
+            flex-wrap: nowrap;
+            position: relative;
+        }
+
+
+
+        .coinBag-icon {
+            width: 125px !important;
+            margin-top: 25px;
+        }
+
+        .res-er-txt {
+            text-align: center;
+            font-size: 25px;
+            font-family: 'be vietnam pro bold';
+        }
+
+        .res-er-p-txt {
+            text-align: center;
+            font-size: 10px;
+        }
+
+        .back-faq {
+            background: none !important;
+        }
+
+        .accordion-button {
+            font-size: 12px;
+        }
+
+        .accordion-body {
+            font-size: 12px !important;
+        }
+
+        .Terms-and-condition {
+            height: 130px;
+            background: #ffffff;
+            font-size: 14px !important;
+            width: 80% !important;
+            margin: 5px auto !important;
+            padding: 20px 10px !important;
+            box-shadow: 1px 1px 10px #0000002b;
+            bottom: 50px;
+            z-index: 1;
+        }
+
+
+
+
+        ..tandc_ar input {
+            left: 55% !important;
+            top: -20px !important;
+        }
+
+        .footer-cont > p:nth-child(2) {
+            font-size: 12px;
+        }
+
+        .tandc_ar {
+            padding: 0;
+        }
+
+        .tc-head {
+            font-size: 14px !important;
+            font-weight: bold;
+            color: #FE833B;
+        }
+
+        .tcp {
+            font-size: 10px !important;
+            margin: 10px 0 0 0 !important;
+        }
+
+
+
+        .filter-bx img {
+            width: 15px;
+            height: 15px;
+            margin: 0 0px 0 0;
+            margin-inline-start: 5px;
+        }
+
+        .back-grad {
+            height: 120px;
+            background: none;
+            display: grid;
+            align-items: center;
+        }
+
+        .sub-head {
+            font-size: 18px;
+        }
+
+        p.placeHold {
+            font-size: 12px;
+            font-family: 'be vietnam pro medium';
+        }
+
+        .back-grad > div:nth-child(1) > div:nth-child(1) {
+            padding: 10px 5%;
+        }
+
+        .res-p-reflist {
+            padding: 0px 5%;
+        }
+
+        .res-lsit-reflist {
+            padding: 0 5%;
+        }
+
+        .next-ico {
+            height: 12px;
+            margin: 0px 0 0px 0;
+        }
+
+        .share-ico {
+            width: 20px;
+            height: 20px;
+        }
+
+        .s-s-n p {
+            margin: 0 10px;
+        }
+
+        #ContentPlaceHolder1_lnkbtnremind > p:nth-child(1) {
+            font-size: 12px;
+        }
+
+        .ref-btn {
+            width: 100%;
+            display: flex;
+            align-items: center;
+            position: relative;
+            left: 55px !important;
+        }
+
+        .nands, .clm {
+            padding: 0 !important;
+        }
+
+            .nands .st {
+                color: #00000078;
+                font-size: 12px;
+            }
+
+            .clm .status-bx {
+                display: flex;
+                align-items: center;
+                width: 70%;
+                background: #FFF6F0;
+                height: 35px;
+                border-radius: 30px;
+                align-content: center;
+                justify-content: center;
+                margin: 0px 0 0 0;
+                position: absolute;
+                right: 0;
+            }
+
+        .claim-btn {
+            position: relative;
+        }
+
+        .claimed-btn {
+            position: relative;
+        }
+
+        .status-bx .stats {
+            font-size: 12px;
+        }
+
+        .status-bx {
+            display: flex;
+            align-items: center;
+            width: 25% !important;
+            background: #FFF6F0;
+            height: 35px;
+            border-radius: 30px;
+            align-content: center;
+            justify-content: center;
+            margin: 10px 0 0 0;
+        }
+
+        .res-vou-row {
+            align-items: center;
+        }
+
+        .brand-img {
+            width: 45px;
+            height: 45px;
+        }
+
+        .br-price {
+            font-size: 18px;
+        }
+
+        .status-bx-red-d p, .status-bx-red-f p {
+            margin: 0;
+            font-size: 12px;
+        }
+
+        .status-bx-red-d {
+            display: flex;
+            align-items: center;
+            width: 100%;
+            background: #b1e4585c;
+            height: 30px;
+            border-radius: 30px;
+            align-content: center;
+            justify-content: center;
+            margin: 0px 0 0 0 !important;
+        }
+
+        .brand-nm {
+            color: #00000096;
+            font-family: 'be vietnam pro medium';
+            font-size: 12px;
+        }
+
+        div.white-back:nth-child(1) {
+            box-shadow: 0px 0px 10px #0000001a;
+            padding: 10px 10px;
+        }
+
+            div.white-back:nth-child(1) > div:nth-child(1) {
+                padding: 0;
+            }
+
+                div.white-back:nth-child(1) > div:nth-child(1) > div:nth-child(2) {
+                    align-items: center;
+                }
+
+        .res-p-vouchlist {
+            padding: 30px 5%;
+        }
+
+        .res-lsit-vouchlist {
+            padding: 0 5%;
+        }
+
+        .vouch-date {
+            font-size: 10px !important;
+        }
+    }
+
+    /* ============================================================================= */
+
+    /* 360 PX */
+
+    @media screen and (max-width:360px) {
+        .bannertxt {
+            font-size: 25px !important;
+            margin-bottom: 15px;
+            font-family: 'be vietnam pro bold';
+            text-align: center;
+            margin: 0 0px 5px 0;
+        }
+
+        .banner-desc {
+            font-size: 14px;
+            text-align: center;
+        }
+
+        .res-twoButtons {
+            display: grid;
+            width: 100% !important;
+        }
+
+        .banner-image {
+            margin: 0 auto;
+            position: relative;
+            right: 45px;
+            top: 0px;
+        }
+
+        .clrbutton {
+            width: 100% !important;
+        }
+
+        .borderbutton {
+            width: 100% !important;
+            margin: 5px 0 !important;
+        }
+
+        .clrbg {
+            background: transparent linear-gradient(140deg, #F1E9EA 0%, #E7F0FE 100%) 0% 0% no-repeat padding-box;
+            padding: 0 0 20px 0 !important;
+        }
+
+        .bannerClass {
+            flex-direction: column-reverse;
+        }
+
+        .verti {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            margin: 30px 0 0 0;
+        }
+
+        .res-header {
+            padding: 15px 0;
+            background: white;
+        }
+
+        .logo {
+            max-width: 200px;
+            margin: 0 0 0 10px;
+        }
+
+        .h-txt {
+            display: none;
+        }
+
+        #btnpopuphelp > img {
+            width: 18px;
+            margin: 0 0 0 5px;
+            position: absolute;
+            right: 30px;
+            top: 15px;
+        }
+
+        .res-header-row {
+            display: flex;
+            flex-wrap: nowrap;
+            position: relative;
+        }
+
+        .coinBag-icon {
+            width: 125px !important;
+            margin-top: 25px;
+        }
+
+        .res-er-txt {
+            text-align: center;
+            font-size: 25px;
+            font-family: 'be vietnam pro bold';
+        }
+
+        .res-er-p-txt {
+            text-align: center;
+            font-size: 10px;
+        }
+
+        .back-faq {
+            background: none !important;
+        }
+
+        .accordion-button {
+            font-size: 12px;
+        }
+
+        .accordion-body {
+            font-size: 12px !important;
+        }
+
+        .Terms-and-condition {
+            height: 130px;
+            background: #ffffff;
+            font-size: 14px !important;
+            width: 80% !important;
+            margin: 5px auto !important;
+            padding: 20px 10px !important;
+            box-shadow: 1px 1px 10px #0000002b;
+            bottom: 50px;
+            z-index: 1;
+        }
+
+
+
+
+        ..tandc_ar input {
+            left: 55% !important;
+            top: -20px !important;
+        }
+
+        .footer-cont > p:nth-child(2) {
+            font-size: 12px;
+        }
+
+        .tandc_ar {
+            padding: 0;
+        }
+
+        .tc-head {
+            font-size: 14px !important;
+            font-weight: bold;
+            color: #FE833B;
+        }
+
+        .tcp {
+            font-size: 10px !important;
+            margin: 10px 0 0 0 !important;
+        }
+
+        .status-bx {
+            display: flex;
+            align-items: center;
+            width: 30%;
+            background: #FFF6F0;
+            height: 35px;
+            border-radius: 30px;
+            align-content: center;
+            justify-content: center;
+            margin: 10px 0 0 0;
+        }
+
+        .filter-bx img {
+            width: 15px;
+            height: 15px;
+            margin: 0 0px 0 0;
+            margin-inline-start: 5px;
+        }
+
+        .back-grad {
+            height: 120px;
+            background: none;
+            display: grid;
+            align-items: center;
+        }
+
+        .sub-head {
+            font-size: 18px;
+        }
+
+        p.placeHold {
+            font-size: 12px;
+            font-family: 'be vietnam pro medium';
+        }
+
+        .back-grad > div:nth-child(1) > div:nth-child(1) {
+            padding: 10px 5%;
+        }
+
+        .res-p-reflist {
+            padding: 0px 5%;
+        }
+
+        .res-lsit-reflist {
+            padding: 0 5%;
+        }
+
+        .next-ico {
+            height: 12px;
+            margin: 0px 0 0px 0;
+        }
+
+        .share-ico {
+            width: 20px;
+            height: 20px;
+        }
+
+        .s-s-n p {
+            margin: 0 10px;
+        }
+
+        #ContentPlaceHolder1_lnkbtnremind > p:nth-child(1) {
+            font-size: 12px;
+        }
+
+        .ref-btn {
+            width: 100%;
+            display: flex;
+            align-items: center;
+            position: relative;
+            left: 40px;
+        }
+
+        .nands, .clm {
+            padding: 0 !important;
+        }
+
+            .nands .st {
+                color: #00000078;
+                font-size: 12px;
+            }
+
+            .clm .status-bx {
+                display: flex;
+                align-items: center;
+                width: 70%;
+                background: #FFF6F0;
+                height: 35px;
+                border-radius: 30px;
+                align-content: center;
+                justify-content: center;
+                margin: 0px 0 0 0;
+                position: absolute;
+                right: 0;
+            }
+
+        .claim-btn {
+            position: relative;
+        }
+
+        .claimed-btn {
+            position: relative;
+        }
+
+        .status-bx .stats {
+            font-size: 12px;
+        }
+
+
+        .res-vou-row {
+            align-items: center;
+        }
+
+        .brand-img {
+            width: 30px;
+            height: 30px;
+        }
+
+        .br-price {
+            font-size: 18px;
+        }
+
+        .status-bx-red-d p, .status-bx-red-f p {
+            margin: 0;
+            font-size: 12px;
+        }
+
+        .status-bx-red-d {
+            display: flex;
+            align-items: center;
+            width: 100%;
+            background: #b1e4585c;
+            height: 30px;
+            border-radius: 30px;
+            align-content: center;
+            justify-content: center;
+            margin: 0px 0 0 0 !important;
+        }
+
+        .brand-nm {
+            color: #00000096;
+            font-family: 'be vietnam pro medium';
+            font-size: 12px;
+        }
+
+        div.white-back:nth-child(1) {
+            box-shadow: 0px 0px 10px #0000001a;
+            padding: 10px 10px;
+        }
+
+            div.white-back:nth-child(1) > div:nth-child(1) {
+                padding: 0;
+            }
+
+                div.white-back:nth-child(1) > div:nth-child(1) > div:nth-child(2) {
+                    align-items: center;
+                }
+
+        .res-p-vouchlist {
+            padding: 30px 5%;
+        }
+
+        .res-lsit-vouchlist {
+            padding: 0 5%;
+        }
+
+        .vouch-date {
+            font-size: 10px !important;
+        }
+    }
+
+    /* ============================================================================= */
+
+    /* 320 PX */
+
+    @media screen and (max-width:320px) {
+
+        .bannertxt {
+            font-size: 25px !important;
+            margin-bottom: 15px;
+            font-family: 'be vietnam pro bold';
+            text-align: center;
+            margin: 0 0px 5px 0;
+        }
+
+        .banner-desc {
+            font-size: 14px;
+            text-align: center;
+        }
+
+        .res-twoButtons {
+            display: grid;
+            width: 100% !important;
+        }
+
+        .banner-image {
+            margin: 0 auto;
+            position: relative;
+            right: 45px;
+            top: 0px;
+        }
+
+        .clrbutton {
+            width: 100% !important;
+        }
+
+        .borderbutton {
+            width: 100% !important;
+            margin: 5px 0 !important;
+        }
+
+        .clrbg {
+            background: transparent linear-gradient(140deg, #F1E9EA 0%, #E7F0FE 100%) 0% 0% no-repeat padding-box;
+            padding: 0 0 20px 0 !important;
+        }
+
+        .bannerClass {
+            flex-direction: column-reverse;
+        }
+
+        .verti {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            margin: 30px 0 0 0 !important;
+        }
+
+        .res-header {
+            padding: 15px 0;
+            background: white;
+        }
+
+        .logo {
+            max-width: 200px;
+            margin: 0 0 0 10px;
+        }
+
+        .h-txt {
+            display: none;
+        }
+
+        #btnpopuphelp > img {
+            width: 18px;
+            margin: 0 0 0 5px;
+            position: absolute;
+            right: 30px;
+            top: 15px;
+        }
+
+        .res-header-row {
+            display: flex;
+            flex-wrap: nowrap;
+            position: relative;
+        }
+
+        .coinBag-icon {
+            width: 125px !important;
+            margin-top: 25px;
+        }
+
+        .res-er-txt {
+            text-align: center;
+            font-size: 25px;
+            font-family: 'be vietnam pro bold';
+        }
+
+        .res-er-p-txt {
+            text-align: center;
+            font-size: 10px;
+        }
+
+        .back-faq {
+            background: none !important;
+        }
+
+        .accordion-button {
+            font-size: 12px;
+        }
+
+        .accordion-body {
+            font-size: 12px !important;
+        }
+
+        .Terms-and-condition {
+            height: 130px;
+            background: #ffffff;
+            font-size: 14px !important;
+            width: 80% !important;
+            margin: 5px auto !important;
+            padding: 20px 10px !important;
+            box-shadow: 1px 1px 10px #0000002b;
+            bottom: 50px;
+            z-index: 1;
+        }
+
+
+
+
+        ..tandc_ar input {
+            left: 55% !important;
+            top: -20px !important;
+        }
+
+        .footer-cont > p:nth-child(2) {
+            font-size: 12px;
+        }
+
+        .tandc_ar {
+            padding: 0;
+        }
+
+        .tc-head {
+            font-size: 14px !important;
+            font-weight: bold;
+            color: #FE833B;
+        }
+
+        .tcp {
+            font-size: 10px !important;
+            margin: 10px 0 0 0 !important;
+        }
+
+        .status-bx {
+            display: flex;
+            align-items: center;
+            width: 30% !important;
+            background: #FFF6F0;
+            height: 35px;
+            border-radius: 30px;
+            align-content: center;
+            justify-content: center;
+            margin: 10px 0 0 0;
+        }
+
+        .filter-bx img {
+            width: 15px;
+            height: 15px;
+            margin: 0 0px 0 0;
+            margin-inline-start: 5px;
+        }
+
+        .back-grad {
+            height: 120px;
+            background: none;
+            display: grid;
+            align-items: center;
+        }
+
+        .sub-head {
+            font-size: 18px;
+        }
+
+        p.placeHold {
+            font-size: 12px;
+            font-family: 'be vietnam pro medium';
+        }
+
+        .back-grad > div:nth-child(1) > div:nth-child(1) {
+            padding: 10px 5%;
+        }
+
+        .res-p-reflist {
+            padding: 0px 5%;
+        }
+
+        .res-lsit-reflist {
+            padding: 0 5%;
+        }
+
+        .next-ico {
+            height: 12px;
+            margin: 0px 0 0px 0;
+        }
+
+        .share-ico {
+            width: 20px;
+            height: 20px;
+        }
+
+        .s-s-n p {
+            margin: 0 10px;
+        }
+
+        #ContentPlaceHolder1_lnkbtnremind > p:nth-child(1) {
+            font-size: 12px;
+        }
+
+        .ref-btn {
+            width: 100%;
+            display: flex;
+            align-items: center;
+            position: relative;
+            left: 40px;
+        }
+
+        .nands, .clm {
+            padding: 0 !important;
+        }
+
+            .nands .st {
+                color: #00000078;
+                font-size: 12px;
+            }
+
+            .clm .status-bx {
+                display: flex;
+                align-items: center;
+                width: 70% !important;
+                background: #FFF6F0;
+                height: 35px;
+                border-radius: 30px;
+                align-content: center;
+                justify-content: center;
+                margin: 0px 0 0 0;
+                position: absolute;
+                right: 0;
+            }
+
+        .claim-btn {
+            position: relative;
+        }
+
+        .claimed-btn {
+            position: relative;
+        }
+
+        .status-bx .stats {
+            font-size: 12px;
+        }
+
+        .res-vou-row {
+            align-items: center;
+        }
+
+        .brand-img {
+            width: 30px;
+            height: 30px;
+        }
+
+        .br-price {
+            font-size: 18px;
+        }
+
+        .status-bx-red-d p, .status-bx-red-f p {
+            margin: 0;
+            font-size: 12px;
+        }
+
+        .status-bx-red-d {
+            display: flex;
+            align-items: center;
+            width: 100%;
+            background: #b1e4585c;
+            height: 30px;
+            border-radius: 30px;
+            align-content: center;
+            justify-content: center;
+            margin: 0px 0 0 0 !important;
+        }
+
+        .brand-nm {
+            color: #00000096;
+            font-family: 'be vietnam pro medium';
+            font-size: 12px;
+        }
+
+        div.white-back:nth-child(1) {
+            box-shadow: 0px 0px 10px #0000001a;
+            padding: 10px 10px;
+        }
+
+            div.white-back:nth-child(1) > div:nth-child(1) {
+                padding: 0;
+            }
+
+                div.white-back:nth-child(1) > div:nth-child(1) > div:nth-child(2) {
+                    align-items: center;
+                }
+
+        .res-p-vouchlist {
+            padding: 30px 5%;
+        }
+
+        .res-lsit-vouchlist {
+            padding: 0 5%;
+        }
+
+        .vouch-date {
+            font-size: 10px !important;
+        }
+
+        .days-tog {
+            text-decoration: none;
+            color: black;
+            background: #FFF6F0;
+            padding: 0px 20px !important;
+            border-radius: 25px !important;
+            width: 204%;
+            text-align: left;
+            position: absolute;
+            top: -90px;
+            left: 195px;
+            height: 35px;
+        }
+
+        .voucher-blk {
+            width: 100%;
+            display: flex;
+            justify-content: flex-start;
+            padding: 0 0%;
+            margin: 0px 0;
+            flex-wrap: wrap
+        }
+
+        .vouc-ec {
+            box-shadow: 0px 0px 10px #00000026;
+            padding: 0;
+            margin: 20px 0px;
+            width: 45%;
+        }
+
+        .vou-nr-nm {
+            margin: 0;
+            font-family: 'be vietnam pro semibold';
+            font-size: 14px;
+        }
+
+        .vou-des {
+            margin: 0;
+            font-size: 12px;
+            color: #000000b8;
+        }
+
+        .vou-des {
+            margin: 0;
+            font-size: 12px;
+            color: #000000b8;
+        }
+
+        .back-grad-vouch {
+            height: 60px;
+            background: linear-gradient(95deg, #fdb43f5e, #ee90c963);
+            display: grid;
+            align-items: center;
+            padding: 10px;
+        }
+
+        .jmf-btn-vou {
+            margin-bottom: 10px;
+            border: none;
+            background: linear-gradient(97deg, #BB5BE0, #EE8A4C);
+            color: white !important;
+            height: 35px !important;
+            width: 100% !important;
+            border-radius: 44px !important;
+            font-size: 13px;
+        }
+
+            .jmf-btn-vou input[type=submit] {
+                padding: 0px !important;
+            }
+
+        .search-input > input::placeholder {
+            padding: 0 0 0 28px !important;
+        }
+
+        .search-input {
+            border: 1px solid #000;
+        }
+
+        .sugAmtRadio {
+            width: 100%;
+            height: 44px;
+            position: absolute;
+            opacity: 0;
+        }
+
+        .back-grad > div:nth-child(1) > div:nth-child(1) {
+            padding: 0px 10%;
+            position: relative;
+        }
+
+        div.vouc-ec:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) {
+            width: 70px;
+            height: 70px;
+        }
+
+        div.vouc-ec:nth-child(1) {
+            padding: 0;
+        }
+
+        .tandc input[type=checkbox] {
+            width: 15px;
+            height: 15px;
+            margin: 0 10px 0 0;
+            background: orange;
+            align-items: center;
+        }
+
+        .tandc > p:nth-child(2) {
+            margin: 0;
+            font-family: 'be vietnam pro medium';
+            font-size: 12px;
+        }
+
+        .popupDiv-c {
+            height: auto;
+            background: white;
+            position: absolute !important;
+            width: 90% !important;
+            left: 4.5% !important;
+            border-radius: 8px;
+            top: 15% !important;
+            padding: 20px;
+        }
+
+        .coin-bag-st img {
+            width: 70px !important;
+            height: 70px !important;
+        }
+
+        .sub-head {
+            font-size: 18px !important;
+            font-family: 'be vietnam pro bold';
+            margin: 15px 0 0 0;
+        }
+
+        p.placeHold {
+            font-size: 12px;
+            font-family: 'be vietnam pro semibold';
+            color: #000000a3;
+            opacity: 60%;
+        }
+
+        .likeBox {
+            height: 55px !important;
+            border: 1px solid #0000001A;
+            display: grid;
+            width: 100%;
+            border-radius: 4px;
+            align-content: center;
+            font-size: 16px;
+            font-family: 'be vietnam pro bold';
+        }
+
+        .coin-bag-st {
+            padding: 0;
+            text-align: left;
+        }
+
+        #txtreferralCode {
+            padding: 10px !IMPORTANT;
+        }
+
+        txtPhoneNumber {
+            padding: 10px !important
+        }
+
+        .popupHead {
+            padding: 0;
+            text-align: left;
+        }
+
+        #btnGenrteLink {
+            padding: 0px !important;
+        }
+
+
+        p.placeHold {
+            font-size: 14px;
+            font-family: 'be vietnam pro semibold';
+            color: #000000a3;
+            opacity: 60%;
+        }
+
+        .tandc input[type="checkbox"] {
+            width: 15px !important;
+            height: 15px !important;
+            margin: 0 10px 0 0;
+            background: orange;
+            align-items: center;
+        }
+
+        .jmf-btn {
+            border: none;
+            background: linear-gradient(97deg, #BB5BE0, #EE8A4C);
+            color: white;
+            height: 50px !important;
+            width: 100%;
+            border-radius: 99px !important;
+            font-size: 14px !important;
+            margin: 25px 0 0 0;
+            font-family: 'be vietnam pro medium';
+        }
+
+        .faqImagcls {
+            width: 130px;
+            margin: 0 !important;
+        }
+
+        #myTab .borderbutton {
+            width: auto !important;
+            margin: 0px 5px !important;
+        }
+
+        #myTab .clrbutton {
+            width: auto !important;
+            margin: 0 10px !important;
+        }
+    }
+
+
+
+    /*---------------------------------------------------------------- Seeni responsive ----------------------------------------------------------------*/
+
+    @media screen and (max-width:767px) {
+        .bannerClass {
+            flex-direction: column-reverse !important;
+        }
+
+        .decoration-in-one .container {
+            width: 100%;
+            margin: 0 !important;
+            max-width: unset;
+        }
+
+        .banner-image {
+            width: 100% !important;
+            position: unset !important;
+        }
+
+        .row.bannerClass .col-md-7.col-sm-12.col-xs-12 {
+            padding: 0 !important;
+        }
+
+        .bannerClass .col-md-5.col-sm-12.col-xs-12.verti {
+            text-align: center;
+            margin-top: 30px;
+        }
+
+        .res-twoButtons {
+            display: unset !important;
+            width: 100%;
+            float: left;
+        }
+
+            .res-twoButtons .clrbutton {
+                width: 100% !important;
+                float: left;
+            }
+
+            .res-twoButtons .borderbutton {
+                width: 100% !important;
+                float: left;
+                border: none;
+            }
+
+        .clrbg {
+            background: #fff !important;
+        }
+
+        .row.align-center.res-header-row {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+        }
+
+        .brown-header {
+            background-color: #fff !important;
+        }
+
+        ul#myTab {
+            display: flex;
+            flex-direction: row;
+            flex-wrap: nowrap;
+            align-items: center;
+        }
+
+        .faqImagcls {
+            margin-top: 0px !important;
+        }
+
+        .accordion-button {
+            background-color: #fff !important;
+        }
+
+        .accordion-item {
+            background: #fff !important;
+        }
+
+        .accordion-button:not(.collapsed) {
+            background-color: #fff !important;
+        }
+
+        .accordion-body {
+            background-color: #fff !important;
+        }
+
+        .back-faq {
+            background: none !important;
+        }
+
+        .reswidthfull {
+            width: 100% !important;
+            height: 100vh;
+        }
+
+        .resshow {
+            display: block !important;
+        }
+    }
+
+    @media screen and (min-width:768px) {
+        .accordion-button {
+            background-color: #f1e9ea !important;
+        }
+
+        .accordion-item {
+            background: #f1e9ea !important;
+        }
+
+        .accordion-button:not(.collapsed) {
+            background-color: #f1e9ea !important;
+        }
+
+        .accordion-body {
+            background-color: #f1e9ea !important;
+        }
+    }
