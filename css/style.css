@@ -64,6 +64,9 @@ body{
 .header-navigation{
     height: auto;
     box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.144);
+    position: fixed;
+    width: 100%;
+    z-index: 1;
 }
 
 .port-menu li{
@@ -139,4 +142,42 @@ body{
     color: #3A3939;
     font-weight: 600;
     cursor: pointer;
+}
+
+.filterDp{
+    top: 0px;
+    position: absolute;
+    left: 70px;
+}
+
+.backOrg{
+    position: relative;
+}
+
+.bannerSec{
+    padding: 30px;
+}
+
+.orangetxt{
+    color: #FF8800;
+}
+
+body p{
+    color: #3A3939;
+}
+
+.head1{
+    font-size: 60px;
+    font-family: 'dosis bold';
+}
+
+.head2{
+    font-size: 40px;
+    font-family: 'dosis medium';
+}
+
+.bannerTit{
+    display: grid;
+    align-items: center;
+    padding: 7%;
 }
