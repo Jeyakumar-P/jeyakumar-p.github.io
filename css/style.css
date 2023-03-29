@@ -181,3 +181,18 @@ body p{
     align-items: center;
     padding: 7%;
 }
+
+.grayback {
+    background: #eaeaea;
+   
+   }
+
+   .contents {
+    list-style: none;
+    display: flex;
+    padding: 20px 0;
+    gap: 4%;
+    text-align: center;
+    justify-content: center;
+   }
+   
