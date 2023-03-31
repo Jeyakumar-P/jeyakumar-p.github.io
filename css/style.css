@@ -43,6 +43,8 @@
 
 body{
     font-family: 'dosis regular';
+    background: #1d1d1d;
+color: white;
 }
 
 *{
@@ -66,7 +68,7 @@ body{
     box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.144);
     position: fixed;
     width: 100%;
-    z-index: 1;
+    z-index: 1000000;
 }
 
 .port-menu li{
@@ -82,7 +84,7 @@ body{
 }
 
 .headerBack{
-    background: #3A3939;
+    background: #1d1d1d;
     color: white;
     align-items: center;
 }
@@ -138,8 +140,8 @@ body{
 }
 
 .port-menu li:hover{
-    background: white;
-    color: #3A3939;
+    background: #f80;
+    color: #fff;
     font-weight: 600;
     cursor: pointer;
 }
@@ -163,7 +165,7 @@ body{
 }
 
 body p{
-    color: #3A3939;
+    color: #fff;
 }
 
 .head1{
@@ -197,19 +199,15 @@ body p{
    }
 
 
-.container .card
-{
-  position:relative;
-  width:250px;
-  background:linear-gradient(0deg,#1b1b1b,#222,#1b1b1b);
-  display:flex;
-  justify-content:center;
-  align-items:center;
-  height:300px;
-  border-radius:4px;
-  text-align:center;
-  overflow:hidden;
-  transition:0.5s;
+   .container .card {
+	background: linear-gradient(0deg,#1b1b1b,#222,#1b1b1b);
+	align-items: center;
+	height: auto;
+	border-radius: 4px;
+	text-align: center;
+	overflow: hidden;
+	transition: 0.5s;
+	padding: 15px 10px 0px 10px;
 }
 .container .card:hover
 {
@@ -272,17 +270,18 @@ body p{
 {
   color:#fff;
 }
-.text
-{
-  position:relative;
-  color:#777;
-  margin-top:20px;
-  font-weight:700;
-  font-size:18px;
-  letter-spacing:1px;
-  text-transform:uppercase;
-  transition:0.5s;
-}
+
+.text {
+        position: relative;
+        color: #fff;
+        margin-top: 20px;
+        font-weight: 700;
+        font-size: 18px;
+        letter-spacing: 1px;
+        transition: 0.5s;
+        font-family: 'dosis regular';
+    }
+
 .card:hover .text
 {
   color:#fff;
@@ -309,10 +308,75 @@ svg circle:nth-child(2)
   stroke-dasharray:440;
   stroke-dashoffset:440;
 }
-.card:nth-child(1) svg circle:nth-child(2)
+.card.xd svg circle:nth-child(2)
 {
    stroke-dashoffset: 70;
-  stroke:#00ff43;
+   stroke: #f80;
 }
 
+.card.figma svg circle:nth-child(2)
+{
+   stroke-dashoffset: 160;
+   stroke: #f80;
+}
    
+.card.adobe svg circle:nth-child(2)
+{
+   stroke-dashoffset: 180;
+   stroke: #f80;
+}
+
+.card.miro svg circle:nth-child(2)
+{
+   stroke-dashoffset: 200;
+   stroke: #f80;
+}
+
+.card.html svg circle:nth-child(2)
+{
+   stroke-dashoffset: 50;
+   stroke: #f80;
+}
+
+.card.css svg circle:nth-child(2)
+{
+   stroke-dashoffset: 150;
+   stroke: #f80;
+}
+
+.card.git svg circle:nth-child(2)
+{
+   stroke-dashoffset: 220;
+   stroke: #f80;
+}
+
+.card.js svg circle:nth-child(2)
+{
+   stroke-dashoffset: 330;
+   stroke: #f80;
+}
+
+.certified img{
+    width: 8%;
+}
+
+.certified{
+    text-align: left;
+}
+
+.certified a{
+    text-decoration: none;
+    color:white;
+}
+
+.hash{
+    border: 1px solid #ffffff63;
+padding: 5px 10px;
+border-radius: 5px;
+font-size: 12px;
+}
+
+.hash p{
+    margin: 0;
+color: #ffffff82;
+}
