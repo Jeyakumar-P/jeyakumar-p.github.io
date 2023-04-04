@@ -1,0 +1,68 @@
+.item {
+  display: flex;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+.item .image {
+  padding: 1em 2em;
+}
+.item .image > div {
+  position: relative;
+  text-align: center;
+  font-size: 0.8em;
+}
+.item .image > div::after {
+  content: "";
+  width: 100%;
+  height: 0;
+  border-bottom: 1px solid #232b50;
+  position: absolute;
+  top: 2.75em;
+  left: 2.5em;
+  z-index: -1;
+}
+.item .image img {
+  border-radius: 50%;
+  height: 5em;
+  border: 0.35em solid #f80;
+}
+.item .image span {
+  display: block;
+  clear: both;
+  padding: 0.25em 0;
+  margin: 0.5em 0;
+  background: #3b4262;
+}
+.item .details {
+  position: relative;
+  flex-grow: 1;
+}
+.item .details > div {
+  border: 1px solid #232b50;
+  border-radius: 0.5em;
+  padding: 1.5em;
+  margin: 1em 0;
+}
+.item .details > div h1 {
+  color: #f80;
+  font-size: 1.4em;
+  margin: 0;
+  padding: 0 0 0.5em 0;
+  letter-spacing: 0.1em;
+  font-weight: bold;
+}
+.item .details > div p {
+  margin: 0;
+  padding: 0;
+  line-height: 150%;
+}
+.item .details::before {
+  content: "";
+  width: 0;
+  height: 100%;
+  border-left: 1px solid #232b50;
+  position: absolute;
+  top: 0;
+  left: -4.35em;
+  z-index: -1;
+}/*# sourceMappingURL=timeline.css.map */
