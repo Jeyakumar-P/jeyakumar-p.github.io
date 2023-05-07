@@ -43,9 +43,11 @@
 
 html,
 body {
-  height: 100%;
+  height: fit-content;
  font-family: 'montserrat regular';
   -webkit-font-smoothing: antialiased;
+  background: linear-gradient(141deg, #29003c 0%, #760581 51%, #282422 75%);
+  background-repeat: no-repeat;
 }
 
 h1,
@@ -135,7 +137,7 @@ ol {
   display: block;
   font-size: 16px;
   letter-spacing: 2px;
-  text-transform: uppercase;
+  text-transform: initial;
   margin-bottom: 6px;
 }
 .section-title h2 {
@@ -464,7 +466,7 @@ ol {
 .hero__slider.owl-carousel .owl-dots button {
   color: #adadad;
   font-size: 18px;
- font-family: 'montserrat regular ';
+ font-family: 'montserrat regular';
   margin-right: 16px;
   position: relative;
   display: inline-block;
@@ -490,8 +492,8 @@ ol {
 }
 
 .hero__item {
-  height: 684px;
-  padding-top: 255px;
+  height: 570px;
+  padding-top: 100px;
 }
 
 .hero__text span {
@@ -499,7 +501,7 @@ ol {
   display: block;
   font-size: 15px;
   letter-spacing: 2px;
-  text-transform: uppercase;
+  text-transform: initial;
   margin-bottom: 18px;
   position: relative;
   top: 100px;
@@ -726,7 +728,7 @@ ol {
 }
 
 .team__item {
-  height: 390px;
+  height: 400px;
   /* position: relative; */
   overflow: hidden;
   border-radius: 5px;
@@ -766,6 +768,7 @@ ol {
   background: url(../img/team/team-hover.png);
   content: "";
   z-index: -1;
+  border-radius: 5px;
 }
 .team__item__text h4 {
   font-size: 22px;
@@ -873,9 +876,9 @@ ol {
 /*---------------------
   Footer
 -----------------------*/
-.footer {
+/* .footer {
   background: #0a0119;
-}
+} */
 
 .footer__top {
   padding: 30px 0;
@@ -1217,9 +1220,9 @@ ol {
 /*---------------------
   Portfolio
 -----------------------*/
-.portfolio {
-  background: #100028;
-}
+/* .portfolio {
+  background: #2b2b2b;
+} */
 
 .portfolio__filter {
   text-align: center;
@@ -1228,11 +1231,12 @@ ol {
 .portfolio__filter li {
   list-style: none;
   font-size: 16px;
-  color: #adadad;
+  color: #ffffff;
   margin-right: 5px;
   display: inline-block;
   cursor: pointer;
   padding: 6px 22px;
+  border-radius: 25px;
 }
 .portfolio__filter li.active {
   border: 1px solid #00bfe7;
@@ -2031,11 +2035,19 @@ ol {
   .header__nav__option {
     display: none;
   }
+
+  .revCol{
+    flex-direction: column-reverse;
+  }
 }
 /* Wide Mobile = 480px */
 @media only screen and (max-width: 767px) {
   .services__title {
     margin-bottom: 50px;
+  }
+
+  .revCol{
+    flex-direction: column-reverse;
   }
 
   .counter__item {
@@ -2231,6 +2243,10 @@ ol {
   .work__item {
     width: 100%;
     margin-right: 0;
+  }
+
+  .revCol{
+    flex-direction: column-reverse;
   }
 
   .work__item.large__item {
