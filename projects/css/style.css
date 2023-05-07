@@ -729,7 +729,11 @@ ol {
   height: 390px;
   /* position: relative; */
   overflow: hidden;
+  border-radius: 5px;
 }
+
+
+
 .team__item .team__item__text {
   bottom: 0;
 }
@@ -890,7 +894,7 @@ ol {
 }
 .footer__top__social a {
   display: inline-block;
-  font-size: 15px;
+  font-size: 18px;
   color: #ffffff;
   height: 40px;
   width: 40px;
@@ -1794,6 +1798,75 @@ ol {
   border-color: #e1e1e1;
 }
 
+#scrolltotop {
+  display: inline-block;
+  background-color: #ffffff;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border-radius: 4px;
+  position: fixed;
+  border-radius: 25px !important;
+  bottom: 30px;
+  right: 30px;
+  transition: background-color .3s, 
+    opacity .5s, visibility .5s;
+  opacity: 0;
+  visibility: hidden;
+  z-index: 1000;
+}
+
+#scrolltotop img{
+  border-radius: 25px;
+}
+
+#scrolltotop::after {
+  font-weight: normal;
+  font-style: normal;
+  font-size: 2em;
+  line-height: 50px;
+  color: #fff;
+}
+#scrolltotop:hover {
+  cursor: pointer;
+  background-color: #333;
+}
+#scrolltotop:active {
+  background-color: #555;
+}
+#scrolltotop.show {
+  opacity: 1;
+  visibility: visible;
+}
+
+/* Styles for the content section */
+
+.content {
+  width: 77%;
+  margin: 50px auto;
+  font-family: 'Merriweather', serif;
+  font-size: 17px;
+  color: #6c767a;
+  line-height: 1.9;
+}
+@media (min-width: 500px) {
+  .content {
+    width: 43%;
+  }
+  #button {
+    margin: 30px;
+  }
+}
+.content h1 {
+  margin-bottom: -10px;
+  color: #03a9f4;
+  line-height: 1.5;
+}
+.content h3 {
+  font-style: italic;
+  color: #96a2a7;
+}
+
 /*--------------------------------- Responsive Media Quaries -----------------------------*/
 @media only screen and (min-width: 1200px) {
   .container {
@@ -2180,3 +2253,5 @@ ol {
     padding: 30px 40px 35px 35px;
   }
 }
+
+
