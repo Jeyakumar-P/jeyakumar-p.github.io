@@ -1,0 +1,57 @@
+
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: 'montserrat bold';
+  src: url("/font/Montserrat-Bold.ttf") format("TrueType");
+
+  font-family: 'montserrat regular';
+  src: url("/font/Montserrat-Regular.ttf") format("TrueType");
+
+  font-family: 'montserrat medium';
+  src: url("/font/Montserrat-Medium.ttf") format("TrueType");
+
+  font-family: 'montserrat semibold';
+  src: url("/font/Montserrat-SemiBold.ttf") format("TrueType");
+
+  font-family: 'oxygen regular';
+  src: url("/Oxygen-Regular.ttf") format("TrueType");
+
+  font-family: 'oxygen bold';
+  src: url("/font/Oxygen-Bold.ttf") format("TrueType");
+
+  font-family: 'oxygen light';
+  src: url("/font/Oxygen-Light.ttf") format("TrueType");
+}
+
+$headfont:'montserrat semibold';
+$parafont:'oxygen regular';
+$verybold:'montserrat bold';
+
+  .wf{
+    width: 100%;
+    float: left;
+  }
+
+  .fl{
+    float: left;
+  }
+
+  .fr{
+    float: right;
+  }
+
+  @mixin txt-center{
+    text-align: center;
+  }
+
+  @mixin ver-center{
+    display: flex;
+    vertical-align: middle;
+    align-items: center;
+  }
