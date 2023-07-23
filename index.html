@@ -16,13 +16,23 @@
     <link rel="stylesheet" href="./css/slick.css" />
     <link rel="stylesheet" href="./css/slick-theme.css" />
     <link rel="stylesheet" href="./css/main.css">
-    
+
+    <!-- CSS links-->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <!-- fancybox -->
+    <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.1.20/jquery.fancybox.min.css'>
+    <!-- magnific-popup -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.css" />
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
     <!--JS-->
     <script src="./js/1.6.9-angular.min.js" type="text/javascript"></script>
     <script src="./js/2-2-1-jquery-min.js" type="text/javascript"></script>
     <script src="./js/angular.min.js" type="text/javascript"></script>
     <script src="./js/aos.js" type="text/javascript"></script>
     <script src="./js/main.js" type="text/javascript"></script>
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+
 
 </head>
 <body>
@@ -30,13 +40,14 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-md-12 im">
-                    <h5>I'm</h5>
+                    <h5 class="thin">I'm</h5>
                     <h2>JEYAKUMAR P</h2>
                 </div>
             </div>
+            <br>
             <div class="row hero">
                 <div class="col-md-5">
-                    <p class="fr">UI/UX DESIGNER</p>
+                    <p class="fr">UI / UX DESIGNER</p>
                 </div>
                 <div class="col-md-2">
                     <IMG src="images/Linkedin-1.png">
@@ -67,85 +78,97 @@
             </div>
         </div>
     </div>
-    <section class="portfolio">
-        <div class="container">
-            <div class="row" style="align-items: center;">
-                <div class="col-12 mb-5 im">
+
+    <section class="portfolio-section" id="portfolio">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-12 text-center im">
                     <h2>My Works</h2>
                 </div>
-                <div class="col-lg-12">
-                    <ul class="portfolio__filter">
-                        <li class="active" data-filter="*">All</li>
-                        <li data-filter=".app">UI/UX Design</li>
-                        <li data-filter=".digital-marketing">Graphic Design</li>
-                        <li data-filter=".web">Web Development</li>
-                        <li data-filter=".photography">Digital Marketing</li>
-                    </ul>
-                </div>
             </div>
-
-            <div class="row portfolio__gallery">
-                <div class="col-lg-4 col-md-6 col-sm-6 mix app">
-                    <div class="portfolio__item">
-                        <div class="portfolio__item__video set-bg" data-setbg="img/portfolio-img/project-1.png">
-                            <a href="images/portfolio/project-1.png" class="play-btn video-popup" style="width: 100%;
-                            object-fit: contain;"><i
-                                    class="fa fa-add"></i></a>
-                        </div>
-                        <div class="portfolio__item__text">
-                            <h4>Home Buy/Rent App UI</h4>
-                            <ul>
-                                <li>Figma</li>
-                                <li>Adobe XD</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-6 mix app">
-                    <div class="portfolio__item">
-                        <div class="portfolio__item__video set-bg" data-setbg="img/portfolio-img/project-2.png">
-                            <a href="images/portfolio/project-2.png" class="play-btn video-popup" style="width: 100%;
-                            object-fit: contain;"><i
-                                    class="fa fa-add"></i></a>
-                        </div>
-                        <div class="portfolio__item__text">
-                            <h4>Profile Page for Hire Gym Trainer</h4>
-                            <span>Figma</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-6 mix app">
-                    <div class="portfolio__item">
-                        <div class="portfolio__item__video set-bg" data-setbg="img/portfolio-img/project-3.png">
-                            <a href="images/portfolio/project-3.png" class="play-btn video-popup"><i
-                                    class="fa fa-add"></i></a>
-                        </div>
-                        <div class="portfolio__item__text">
-                            <h4>Book my mechanic app</h4>
-                            <ul>
-                                <li>Figma</li>
-                                <li>Adobe XD</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-6 mix app">
-                    <div class="portfolio__item">
-                        <div class="portfolio__item__video set-bg" data-setbg="img/portfolio-img/project-4.png">
-                            <a href="images/portfolio/project-4.png" class="play-btn video-popup"><i
-                                    class="fa fa-play"></i></a>
-                        </div>
-                        <div class="portfolio__item__text">
-                            <h4>Language Learning App</h4>
-                            <ul>
-                                <li>Figma</li>
-                                <li>Adobe XD</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-
+            <div class="portfolio-menu mt-2 mb-4">
+                <nav class="controls">
+                    <button type="button" class="control outline" data-filter="all">All</button>
+                    <button type="button" class="control outline" data-filter=".web">UI/UX Design</button>
+                    <button type="button" class="control outline" data-filter=".dev">Web Design</button>
+                    <button type="button" class="control outline" data-filter=".wp">WordPress</button>
+                </nav>
             </div>
+            <ul class="row portfolio-item">
+                <li class="mix dev col-xl-3 col-md-4 col-12 col-sm-6 pd">
+                    <img src="./images/portfolio/project-1.png" itemprop="thumbnail" alt="Image description" />
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <p class="category">Project Name</p>
+                            <a href="#" title="View Project" target="_blank">
+                                <div class="magnify-icon">
+                                    <p><span><i class="fa fa-link" aria-hidden="true"></i></span></p>
+                                </div>
+                            </a>
+                            <a data-fancybox="item" title="click to zoom-in" href="./images/portfolio/project-1.png">
+                                <div class="magnify-icon">
+                                    <p><span><i class="fa fa-search" aria-hidden="true"></i></span></p>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </li>
+                <li class="mix web col-xl-3 col-md-4 col-12 col-sm-6 pd">
+                    <img src="./images/portfolio/project-2.png" itemprop="thumbnail" alt="Image description" />
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <p class="category">Project Name</p>
+                            <a href="#" title="View Project" target="_blank">
+                                <div class="magnify-icon">
+                                    <p><span><i class="fa fa-link" aria-hidden="true"></i></span></p>
+                                </div>
+                            </a>
+                            <a data-fancybox="item" title="click to zoom-in" href="./images/portfolio/project-2.png" data-size="1200x600">
+                                <div class="magnify-icon">
+                                    <p><span><i class="fa fa-search" aria-hidden="true"></i></span></p>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </li>
+                <li class="mix wp col-xl-3 col-md-4 col-12 col-sm-6 pd">
+                    <img src="./images/portfolio/project-3.png" itemprop="thumbnail" alt="Image description" />
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <p class="category">Project Name</p>
+                            <a href="#" title="View Project" target="_blank">
+                                <div class="magnify-icon">
+                                    <p><span><i class="fa fa-link" aria-hidden="true"></i></span></p>
+                                </div>
+                            </a>
+                            <a data-fancybox="item" title="click to zoom-in" href="./images/portfolio/project-3.png" data-size="1200x600">
+                                <div class="magnify-icon">
+                                    <p><span><i class="fa fa-search" aria-hidden="true"></i></span></p>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </li>
+                <li class="mix dev col-xl-3 col-md-4 col-12 col-sm-6 pd ">
+                    <img src="./images/portfolio/project-4.png" itemprop="thumbnail" alt="Image description" />
+                    <div class="portfolio-overlay">
+                        <div class="overlay-content">
+                            <p class="category">Project Name</p>
+                            <a href="#" title="View Project" target="_blank">
+                                <div class="magnify-icon">
+                                    <p><span><i class="fa fa-link" aria-hidden="true"></i></span></p>
+                                </div>
+                            </a>
+                            <a data-fancybox="item" title="click to zoom-in" href="./images/portfolio/project-4.png" data-size="1200x600">
+                                <div class="magnify-icon">
+                                    <p><span><i class="fa fa-search" aria-hidden="true"></i></span></p>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </li>
+
+            </ul>
         </div>
     </section>
 
@@ -153,31 +176,144 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-3 im">
-                    <p>Experience</p>
+                    <p class="subh">Experience</p>
+                    <hr>
+                    <div class="exper">
+                        <p>UI / UX Designer</p>
+                        <p>Loyltwo3ks IT Pvt Ltd - Full Time</p>
+                        <p>Oct 2021 - Present</p>
+                    </div>
+                    <br>
+                    <div class="exper">
+                        <p>UI Designer</p>
+                        <p>Sharesoft Technology - Internship</p>
+                        <p>Oct 2021 - Present</p>
+                    </div>
                 </div>
                 <div class="col-md-3  im">
-                    <p>Design Skills</p>
+                    <p class="subh">Design Skills</p>
+                    <hr>
+                    <ul class="tools">
+                        <li><i class="fa fa-pencil"></i>&nbsp; UI/UX Design</li>
+                        <li><i class="fa fa-smile-o"></i>&nbsp; Design Thinking</li>
+                        <li><i class="fa fa-search"></i>&nbsp; Design Research</li>
+                        <li><i class="fa fa-paint-brush"></i>&nbsp; Creative Strategy</li>
+                    </ul>
                 </div>
                 <div class="col-md-3  im">
-                    <p>Technical Skills</p>
+                    <p class="subh">Technical Skills</p>
+                    <hr>
+                    <ul class="tools">
+                        <li><img src="./images/icons/figma.png">Figma</li>
+                        <li><img src="./images/icons/xd.png">Adobe XD</li>
+                        <li><img src="./images/icons/ai.png">Illustrator</li>
+                        <li><img src="./images/icons/ps.png">Photoshop</li>
+                        <li><img src="./images/icons/html.png">HTML5</li>
+                        <li><img src="./images/icons/css.png">CSS3</li>
+                        <li><img src="./images/icons/scss.png">SCSS</li>
+                        <li><img src="./images/icons/invision.png">Invision</li>
+                        <li><img src="./images/icons/miro.png">Miro</li>
+                        <li><img src="./images/icons/webfl.png">Webflow</li>
+                    </ul>
                 </div>
                 <div class="col-md-3  im">
-                    <p>Education</p>
+                    <p class="subh">Education</p>
+                    <hr>
+                     <div class="exper">
+                        <p>B.Tech in Information Technology</p>
+                        <p>Kamaraj College of Engineering</p>
+                        <p>2018 - 2021</p>
+                    </div>
+                    <br>
+                    <div class="exper">
+                        <p>Diploma in Computer Science Engineering</p>
+                        <p>DOTE</p>
+                        <p>2015 - 2018</p>
+                    </div>
+                    <br>
+                    <div class="exper">
+                        <p>SSC</p>
+                        <p>Jothi Higher Secondary School</p>
+                        <p>2014 - 2015</p>
+                    </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-3 im">
-                    <p>Awards</p>
+                    <p class="subh">Awards</p>
+                    <hr>
+                    <div class="exper">
+                        <p>Mr. Innovative Award</p>
+                        <p>Loyltwo3ks IT Pvt Ltd</p>
+                        <p>Apr 1, 2023 - Bangalore</p>
+                    </div>
                 </div>
                 <div class="col-md-6  im">
-                    <p>Hire me</p>
+                    <p class="subh">Hire me</p>
+                    <hr>
+                    <ul class="tools hire">
+                        <li><img src="./images/icons/gmail.png"><a href="mailto:p.jeyakumarpandimani21@gmail.com">p.jeyakumarpandimani21@gmail.com</a> </li>
+                        <li><img src="./images/icons/whats.png"><a href="tel:+918608312034">+91 8608312034</a></li>
+                        <li><img src="./images/icons/dropbox.png"><a href="">Download Resume</a></li>
+                    </ul>
                 </div>
 
                 <div class="col-md-3  im">
-                    <p>Connect me</p>
+                    <p class="subh">Connect me</p>
+                    <hr>
+                    <ul class="tools hire">
+                        <li><img src="./images/icons/behance.png"><a href="https://www.behance.net/jeyakumarp">jeyakumar-p</a> </li>
+                        <li><img src="./images/icons/dribbble.png"><a href="https://dribbble.com/jeyakumarp">jeyakumarp</a></li>
+                        <li><img src="./images/icons/github.png"><a href="https://github.com/Jeyakumar-P">Jeyakumar-P</a></li>
+                        <li><img src="./images/icons/linkedin.png"><a href="https://www.linkedin.com/in/jeyakumar-p/">jeyakumar-p</a> </li>
+                        <li><img src="./images/icons/medium.png"><a href="https://medium.com/@jeyakumarp">@jeyakumarp</a></li>
+
+                    </ul>
                 </div>
             </div>
         </div>
     </div>
+    <div class="wf">
+        <div class="row">
+            <div class="col-md-12 text-center im">
+                <p>&copy; &nbsp;Copyright 2023 by Jeyakumar-P</p>
+            </div>
+        </div>
+    </div>
+    <!-- JS Links -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+    <!-- Mixitup -->
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/mixitup/3.2.2/mixitup.min.js'></script>
+    <!-- fancybox -->
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.1.20/jquery.fancybox.min.js'></script>
+    <!-- Fancybox js -->
+
+    <script type="text/javascript">
+        /*Downloaded from https://www.codeseek.co/ezra_siton/mixitup-fancybox3-JydYqm */
+        // 1. querySelector
+        var containerEl = document.querySelector(".portfolio-item");
+        // 2. Passing the configuration object inline
+        //https://www.kunkalabs.com/mixitup/docs/configuration-object/
+        var mixer = mixitup(containerEl, {
+            animation: {
+                effects: "fade translateZ(-100px)",
+                effectsIn: "fade translateY(-100%)",
+                easing: "cubic-bezier(0.645, 0.045, 0.355, 1)"
+            }
+        });
+        // fancybox insilaze & options //
+        $("[data-fancybox]").fancybox({
+            loop: true,
+            hash: true,
+            transitionEffect: "slide",
+            /* zoom VS next////////////////////
+            clickContent - i modify the deafult - now when you click on the image you go to the next image - i more like this approach than zoom on desktop (This idea was in the classic/first lightbox) */
+            clickContent: function(current, event) {
+                return current.type === "image" ? "next" : false;
+            }
+        });
+    </script>
 </body>
 </html>

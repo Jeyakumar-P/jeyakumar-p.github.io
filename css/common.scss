@@ -6,36 +6,48 @@
   box-sizing: border-box;
 }
 
+@font-face{
+  font-family : 'montserrat bold';
+  src : url('../font/Montserrat-Bold.ttf') format('truetype');
+}
+
 @font-face {
-  font-family: 'montserrat bold';
-  src: url("/font/Montserrat-Bold.ttf") format("TrueType");
+  font-family: 'montserrat extralight';
+  src: url('../font/Montserrat-ExtraLight.ttf') format('truetype');
+}
 
-  font-family: 'montserrat regular';
-  src: url("/font/Montserrat-Regular.ttf") format("TrueType");
+@font-face {
+  font-family: 'montserrat light';
+  src: url('../font/Montserrat-Light.ttf') format('truetype');
+}
 
+@font-face {
   font-family: 'montserrat medium';
-  src: url("/font/Montserrat-Medium.ttf") format("TrueType");
+  src: url('../font/Montserrat-Medium.ttf') format('truetype');
+}
 
+@font-face {
+  font-family: 'montserrat regular';
+  src: url('../font/Montserrat-Regular.ttf') format('truetype');
+}
+
+@font-face {
   font-family: 'montserrat semibold';
-  src: url("/font/Montserrat-SemiBold.ttf") format("TrueType");
-
-  font-family: 'oxygen regular';
-  src: url("/font/Oxygen-Regular.ttf") format("TrueType");
-
-  font-family: 'oxygen bold';
-  src: url("/font/Oxygen-Bold.ttf") format("TrueType");
-
-  font-family: 'oxygen light';
-  src: url("/font/Oxygen-Light.ttf") format("TrueType");
+  src: url('../font/Montserrat-SemiBold.ttf') format('truetype');
 }
 
 $headfont:'montserrat semibold';
-$parafont:'oxygen regular';
+$parafont:'montserrat regular';
 $verybold:'montserrat bold';
 
   .wf{
     width: 100%;
     float: left;
+  }
+
+  body{
+    background: #2b2b2b !important;
+    color: white !important;
   }
 
   .fl{
