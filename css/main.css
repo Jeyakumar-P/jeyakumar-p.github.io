@@ -63,14 +63,14 @@ body {
   margin: 30px 0;
 }
 .im h5 {
-  text-align: center;
+  text-align: left;
   font-size: 35px;
 }
 .im .thin {
   font-family: "montserrat medium";
 }
 .im h2 {
-  text-align: center;
+  text-align: left;
   font-size: 50px;
   font-family: "montserrat bold";
 }
@@ -116,6 +116,22 @@ hr {
 .tools.hire a {
   color: white;
   text-decoration: none;
+}
+
+.mainheader{
+  padding: 30px 0;
+  background-image: url('/images/rose-petals.svg');
+  align-content: center;
+  align-items: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center;
+  display: flex;
+}
+
+.portcent{
+  align-content: center;
+align-items: center;
 }
 
 /* -----------------------------------
@@ -272,6 +288,105 @@ hr {
   cursor: pointer;
 }
 
+.profilePic img{
+  width: 100%;
+}
+
+
+
 /*******Responsive media query******/
 
 /*# sourceMappingURL=main.css.map */
+
+@media screen and (max-width:428px) {
+  .mainheader {
+    padding: 30px 0 0 0;
+    background-image: url('/images/rose-petals.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: inherit;
+  }
+
+  .im h5 {
+    text-align: center;
+    font-size: 22px;
+  }
+
+  .im h2 {
+    text-align: center;
+    font-size: 35px;
+    font-family: "montserrat bold";
+  } 
+
+  .designation{
+    font-size: 18px;
+  }
+
+  .im {
+    margin: 30px 0 0 0;
+    text-align: left;
+  }
+
+  .profilePic{
+    text-align: center;
+  }
+
+  .profilePic img{
+    width: 70%;
+  }
+
+  .portfolio-section {
+    padding: 30px 0 0 0;
+    background-color: #2b2b2b;
+  }
+
+  p{
+    margin-bottom: 10px !important;
+  }
+ 
+  .tools.hire a {
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+  }
+
+  .exper p:nth-child(1) {
+    font-size: 16px;
+    margin-bottom: 10px;
+    font-weight: 600;
+  }
+
+  .exper p:nth-child(2), .exper p:nth-child(3) {
+    font-size: 14px;
+    margin-bottom: 5px;
+    color: rgba(255, 255, 255, 0.8901960784);
+  }
+
+  .im .subh {
+    font-family: "montserrat semibold";
+    font-size: 22px;
+  }
+
+  .control {
+    background: #2b2b2b;
+    color: #fff;
+    padding: 5px 20px;
+    border: 1px solid #388b00;
+    border-radius: 25px;
+    margin: 5px;
+    cursor: pointer;
+    -webkit-transition: all 5s ease;
+    -moz-transition: all 5s ease;
+    -ms-transition: all 5s ease;
+    -o-transition: all 5s ease;
+    transition: all 0.5s ease;
+    font-size: 14px;
+  }
+
+  .im h2 {
+    text-align: center;
+    font-size: 30px;
+    font-family: "montserrat bold";
+  }
+ 
+}
