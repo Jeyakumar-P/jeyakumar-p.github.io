@@ -324,6 +324,18 @@ align-items: center;
   padding: 0;
 }
 
+.tools.hero {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  gap: 15px;
+}
+
+.tools.hero li img{
+ padding: 0;
+ width: 30px;
+}
+
 
 /*******Responsive media query******/
 
@@ -451,3 +463,5 @@ align-items: center;
   }
  
 }
+
+
