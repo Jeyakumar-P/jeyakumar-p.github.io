@@ -119,8 +119,8 @@ hr {
 }
 
 .mainheader{
-  padding: 30px 0;
-  background-image: url('/images/rose-petals.svg');
+  padding: 50px 0;
+  /* background-image: url('/images/rose-petals.svg'); */
   align-content: center;
   align-items: center;
   background-repeat: no-repeat;
@@ -349,6 +349,18 @@ align-items: center;
     background-size: cover;
     background-position: inherit;
   }
+
+  .tools.hero {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+}
+
+.im hr{
+  display: none;
+}
 
   .im h5 {
     text-align: center;
