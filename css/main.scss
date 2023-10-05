@@ -62,12 +62,13 @@ hr{
 .tools{
   list-style: none;
   padding: 0;
-  & img{
-    padding: 0 15px;
-    width: 55px;
+  & img {
+    margin: 0 10px 0px 0;
+    width: 25px;
     height: 25px;
     object-fit: contain;
-  }
+}
+  
   & li{
     margin: 10px 0;
   }
@@ -77,6 +78,7 @@ hr{
   color: white;
   text-decoration:none;
 }
+
 
 
 
@@ -127,7 +129,7 @@ hr{
   padding: 10px;
 }
 .pd img {
-  height: auto;
+  height: 275px;
   width: 100%;
   transition: all 0.5s;
   object-fit: contain;

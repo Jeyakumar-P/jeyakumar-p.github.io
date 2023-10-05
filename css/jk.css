@@ -209,6 +209,26 @@ a {
   
 }
 
+.footcontact hr{
+  width: 100%;
+}
+
+.tools.res{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0 10px;
+}
+
+.tools.res li{
+  background: #00000029;
+  padding: 10px 20px;
+  border-radius: 25px;
+}
+
+.footcontact .subh{
+  text-align: center;
+}
+
 
 @media (max-width: 1000px){
   

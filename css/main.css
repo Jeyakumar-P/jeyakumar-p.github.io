@@ -94,7 +94,8 @@ hr {
   height: 3px !important;
   margin-top: 0 !important;
   width: 30%;
-  background: #e84c00;
+  background: linear-gradient(45deg, #d63a65, #77152c);
+
   opacity: 1;
   border-radius: 25px;
 }
@@ -120,7 +121,7 @@ hr {
 
 .mainheader{
   padding: 50px 0;
-  /* background-image: url('/images/rose-petals.svg'); */
+  background-image: url('/images/rose-petals.svg'); 
   align-content: center;
   align-items: center;
   background-repeat: no-repeat;
@@ -191,7 +192,7 @@ align-items: center;
 }
 
 .pd img {
-  height: auto;
+  height: 275px;
   width: 100%;
   transition: all 0.5s;
   object-fit: contain;
@@ -216,6 +217,7 @@ align-items: center;
   position: relative;
   z-index: 4;
 }
+
 
 .portfolio-overlay::before {
   width: 0;
@@ -337,6 +339,7 @@ align-items: center;
 }
 
 
+
 /*******Responsive media query******/
 
 /*# sourceMappingURL=main.css.map */
@@ -356,6 +359,19 @@ align-items: center;
     display: flex;
     gap: 15px;
     justify-content: center;
+}
+
+.et-hero-tab {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+  color: white;
+  letter-spacing: 0.1rem;
+  transition: all 0.5s ease;
+  font-size: 0.8rem;
+  text-decoration: none !important;
+  text-align: center;
 }
 
 .im hr{
@@ -438,7 +454,7 @@ align-items: center;
     background: #2b2b2b;
     color: #fff;
     padding: 5px 20px;
-    border: 1px solid #388b00;
+    border: 1px solid #a3204b !important;
     border-radius: 25px;
     margin: 5px;
     cursor: pointer;
@@ -458,11 +474,11 @@ align-items: center;
 
   .twobtns {
     background: #00000017;
-    padding: 10px 15px;
+    padding: 15px 15px;
     border-radius: 10px;
     text-align: center;
-    margin: 0 10px;
-  }
+    margin: 10px 0px;
+}
 
   .twobtns a{
     text-decoration: none;
