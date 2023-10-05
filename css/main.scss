@@ -121,9 +121,14 @@ hr{
   outline: 0;
   box-shadow: none;
 }
-.portfolio-item {
+ul.portfolio-item::marker {
+  display: none;
+}
+
+.portfolio-item{
   padding: 0;
 }
+
 .pd {
   padding: 0;
   padding: 10px;
